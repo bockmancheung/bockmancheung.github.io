@@ -16,9 +16,9 @@ Education
 Math Classes
 ------
 * Fall 2023 (expected):
-  + 210A - Algebra
-  + 115AH - Honors Linear Algebra
-  + 32AH - Honors Multivariable Calculus
+  + 110AH - Algebra
+  + 115AH - Linear Algebra
+  + 32AH - Multivariable Calculus
 * Summer 2023:
   + 170E - Introduction to Probability & Statistics Part 1: Probability
   + 170S - Introduction to Probability & Statistics Part 2: Statistics
