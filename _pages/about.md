@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to Bockman's Page!"
+title: "Bockman Cheung"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
