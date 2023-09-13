@@ -34,3 +34,13 @@ Talks
 
 Service and leadership
 ------
+
+Matriculation Exams
+------
+* Hong Kong Diploma of Secondary Education, Best 5 32/35 (Top 1.3%) 
+   + Mathematics Extended Module Part 2, Algebra and Calculus: 5** (Top 4.4%)
+   + Mathematics Core Part: 5** (Top 1.6%)
+   + Physics: 5* 
+   + Chinese Language: 5* (5** Writing) (Top 4.4%)
+   + English Language: 5* (Top 3.8%)
+* ACT, 34/36 with 36, 36 in Math and Science and 34 in English. 
