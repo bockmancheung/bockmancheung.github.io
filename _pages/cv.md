@@ -15,7 +15,8 @@ Education
   
 Classes
 ------
-* Summer 2023
+* Summer 2023:
+
 
 
 Publications
@@ -24,7 +25,7 @@ Publications
   
 Talks
 ------
-* 
+* Aug 2023, <a href="https://drive.google.com/file/d/11osYw7-6TlMaAoz0Ns-5TaqgeEsCY6in/view?usp=sharing"> *Basic Concepts in Catgeory Theory I* </a>, this is a talk summarizing what I learned in algebra from May 2023 to Aug 2023.
 
 Service and leadership
 ------
