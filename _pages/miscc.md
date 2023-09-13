@@ -7,4 +7,4 @@ author_profile: true
 
 Friends Webpages
 ------
-<a href="https://loganhyslop.github.io"> Logan Hyslop, my great precursor, 25' </a>
+<a href="https://loganhyslop.github.io"> Logan Hyslop </a>, my great precursor, Class of 25
