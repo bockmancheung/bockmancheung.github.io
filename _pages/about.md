@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my personal academic webpage! My name is Bockman Cheung, and I am a first year undergraduate at UCLA in math. I am also a political and environmental advocate, as I look forward to joining the UCLA community to help fight against social issues and the climate crisis. I am trying to start a blog to record my learning progress, as well as my experiences in UCLA and thoughts!
+Welcome to my personal academic webpage! My name is Bockman Cheung, and I am a first year undergraduate at UCLA in math. I am also a political and environmental advocate, as I look forward to joining the UCLA community to help fight against social issues and the climate crisis. I am trying to record my learning progress on this website, as well as my experiences in UCLA and thoughts!
 
 Background
 ------
@@ -16,7 +16,7 @@ As you can already guess from my romanticized Cantonese first name （張博旻 
 
 Mathematics
 ------
-I'm not well read enough on math to have a very specialized field of interest, but I am currently leaning towards pure math, in particular algebra. I would describe myself as a dedicated and passionate learner, and also an active participant in class, who would ask questions frequently and form study groups to learn together. You can check out my review of the classes I have taken in /classes/ , including but not limited to the quality of teaching, grading, and difficulty of the content. 
+I'm not well read enough on math to have a very specialized field of interest, but I am currently leaning towards pure math, in particular algebra. I would describe myself as a dedicated and passionate learner, and also an active participant in class, who would ask questions frequently and form study groups. Please do check out my review of the classes I have taken in /classes/ , including but not limited to the quality of teaching, grading, and difficulty of the content. 
 
 Algebra Texts I am currently reading:
 
