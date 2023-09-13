@@ -23,5 +23,5 @@ Algebra Texts I am currently reading:
 Algebra Ch.0, Aluffi <br>
 Algebra, Artin <br>
 Algebra, Dummit and Foote <br>
-<a href="https://canvas.ust.hk/courses/50980)https://canvas.ust.hk/courses/50980"> HKUST Math 5111 Notes </a>
+<a href="https://canvas.ust.hk/courses/50980"> HKUST Math 5111 Notes </a>
 
