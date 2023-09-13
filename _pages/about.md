@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-This is my academic webpage currently under development!
+Welcome to my personal academic webpage! My name is Bockman Cheung, and I am a first year undergraduate at UCLA in math. I am currently leaning towards pure math, but I am also interested in learning about their applications. I am also a political and environmental advocate, as I look forward to joining the UCLA community to help fight against social issues and the climate crisis. 
 
 My Background
 ======
