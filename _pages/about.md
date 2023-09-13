@@ -21,7 +21,10 @@ I'm not well read enough on math to have a very specialized field of interest, b
 Algebra Texts I am currently reading:
 
 Algebra Ch.0, Aluffi
+
 Algebra, Artin
+
 Algebra, Dummit and Foote
+
 <a href="https://canvas.ust.hk/courses/50980)https://canvas.ust.hk/courses/50980"> HKUST Math 5111 Notes </a>
 
