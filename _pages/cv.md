@@ -37,7 +37,7 @@ Service and leadership
 
 Matriculation Exams
 ------
-* Hong Kong Diploma of Secondary Education, Best 5 32/35 
+* Hong Kong Diploma of Secondary Education Examination 2023 (HKDSEE), Best 5 32/35 
    + Mathematics Extended Module Part 2, Algebra and Calculus: 5** (Top 4.4%)
    + Mathematics Core Part: 5** (Top 1.6%)
    + Physics: 5* 
