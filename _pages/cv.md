@@ -13,11 +13,16 @@ Education
 ------
 * B.S. in Mathematics, 2027 (expected)
   
-Classes
+Math Classes
 ------
+* Fall 2023 (expected):
+  + 210A - Algebra
+  + 115AH - Honors Linear Algebra
+  + 32AH - Honors Multivariable Calculus
 * Summer 2023:
-
-
+  + 170E - Introduction to Probability & Statistics Part 1: Probability
+  + 170S - Introduction to Probability & Statistics Part 2: Statistics
+  + 131A - Real Analysis
 
 Publications
 ------
