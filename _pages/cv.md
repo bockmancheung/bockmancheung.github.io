@@ -15,7 +15,14 @@ Education
   
 Math Classes
 ------
-* Fall 2023 (expected):
+* Winter 2024 (Expected)
+  + 225B (Audit) - Differential Topology
+  + 246B (Audit) - Complex Analysis
+  + 110BH - Algebra
+  + 121 - Topology
+  + 32BH - Multivariable Calculus
+* Fall 2023:
+  + 246A (Audit) - Complex Analysis (Terry Tao!)
   + 110AH - Algebra
   + 115AH - Linear Algebra
   + 32AH - Multivariable Calculus
