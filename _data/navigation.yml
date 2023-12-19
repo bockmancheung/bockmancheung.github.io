@@ -11,9 +11,6 @@ main:
     
   - title: "University Life"
     url: /uni/
-        
-  - title: "Writings"
-    url: /writings/
     
   - title: "Miscellaneous"
     url: /miscc/
