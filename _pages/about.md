@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my personal webpage! I am Bockman Cheung, a first year UCLA math undergraduate. My ineterest lies in algebra, topology, and geometry. I am also a human rights activist, environmental advocate, and an amaeteur musician. 
+Welcome to my personal webpage! I am Bockman Cheung, a first year UCLA math undergraduate. My ineterest lies in algebra, topology, and geometry. I am also a human rights activist, environmental advocate, and an amateur musician. 
 
 Mathematics
 ------
