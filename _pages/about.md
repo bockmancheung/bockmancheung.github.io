@@ -8,20 +8,19 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my personal academic webpage! My name is Bockman Cheung, and I am a first year undergraduate at UCLA in math. I am also a political and environmental advocate, as I look forward to joining the UCLA community to help fight against social issues and the climate crisis. I am trying to record my learning progress on this website, as well as my experiences in UCLA and thoughts!
-
-Background
-------
-As you can already guess from my Romanized Cantonese first name （張博旻 romanized to Cheung Bock Man）, I am from Hong Kong, and I spent my first 17 years of life there. It is a place that combines Chinese and Western culture, and its beauty lies not only in the breathtaking skylines, but also in the fact that there is so much to discover on just one street and building. I can speak Cantonese and Mandarin at a native level, and I am open to everyone who wants to practice Chinese!
+Welcome to my personal webpage! I am Bockman Cheung, a first year undergraduate at UCLA in math. My ineterest lies in algebra, topology, and geometry. I am also a human rights activist, environmental advocate, and amaeteur musician. 
 
 Mathematics
 ------
-I'm not well read enough on math to have a very specialized field of interest, but I am currently leaning towards pure math, in particular algebra. I would describe myself as a dedicated and passionate learner, and also an active participant in class, who would ask questions frequently and form study groups. Please do check out my review of the classes I have taken in /classes/ , including but not limited to the quality of teaching, grading, and difficulty of the content. 
+I'm not well read enough on math to have a very specialized field of interest, but I am currently leaning towards pure math, in particular algebra. I would describe myself as a dedicated and passionate learner, and also an active participant in class, who would ask questions frequently and form study groups. Please check out (but also take as a grain of salt) my review of the classes I have taken in /classes/ , including but not limited to teaching quality, grading, and difficulty of the content. 
 
-Algebra Texts I am currently reading:
+Some resources in Algebra I found useful:
 
 Algebra Ch.0, Aluffi <br>
 Algebra, Artin <br>
 Algebra, Dummit and Foote <br>
 <a href="https://canvas.ust.hk/courses/50980"> HKUST Math 5111 Notes </a>
 
+Music
+------
+My major instrument is the piano, I have been playing and learning it for over a decade. Last fall quarter I collaborated with percussionist Viraj Sonawala on Fiddle Faddle by Leroy Anderson in Bruin Chamber Musicians, and that has been one of my favorite moments so far. 
