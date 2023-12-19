@@ -15,7 +15,7 @@ Education
   
 Math Classes
 ------
-* Winter 2024 (Expected)
+* Winter 2024
   + 110BH - Algebra
   + 121 - Topology
   + 32BH - Multivariable Calculus
