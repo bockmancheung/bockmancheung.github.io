@@ -16,13 +16,10 @@ Education
 Math Classes
 ------
 * Winter 2024 (Expected)
-  + 225B (Audit) - Differential Topology
-  + 246B (Audit) - Complex Analysis
   + 110BH - Algebra
   + 121 - Topology
   + 32BH - Multivariable Calculus
 * Fall 2023:
-  + 246A (Audit) - Complex Analysis (Terry Tao!)
   + 110AH - Algebra
   + 115AH - Linear Algebra
   + 32AH - Multivariable Calculus
@@ -30,7 +27,11 @@ Math Classes
   + 170E - Introduction to Probability & Statistics Part 1: Probability
   + 170S - Introduction to Probability & Statistics Part 2: Statistics
   + 131A - Real Analysis
-
+* Audit:
+  + 246A - Complex Analysis (Terry Tao!)
+  + 225B - Differential Topology
+  + 246B - Complex Analysis
+    
 Publications
 ------
 * Dec 2022, <a href="https://drive.google.com/file/d/1XE6-QVYHrVWyFg-2u4yom5OPNqoixJw_/view?usp=sharing"> *On the Coprime Product Series and Its Divergence and Bounds* </a>, winner of the 2022-2023 S.T. Yau High School Science Award (Asia) (Champion) and global finals (Bronze).
@@ -42,12 +43,7 @@ Talks
 Service and leadership
 ------
 
-Matriculation Exams
+Extracurriculars
 ------
-* Hong Kong Diploma of Secondary Education Examination 2023 (HKDSEE), Best 5 32/35 
-   + Mathematics Extended Module Part 2, Algebra and Calculus: 5** (Top 4.4%)
-   + Mathematics Core Part: 5** (Top 1.6%)
-   + Physics: 5* 
-   + Chinese Language: 5* (5** Writing) (Top 4.4%)
-   + English Language: 5* (Top 3.8%)
-* ACT, 34/36 with 36, 36 in Math and Science and 34 in English. 
+* Fall 2023 - , Daily Bruin Opinion Writer
+* Fall 2023 - , Bruin Chamber Musicians Member
