@@ -8,7 +8,7 @@ author_profile: true
 What I learned today:
 ------
 12/20
-* Classifying Compact Riemann surfaces (vanishing locus of f: C^2 -> C^2) as a n-sheeted branch covering space (every fibre consists of n points, and every neighborhood on the points of fibre homeomorphic to open neighborhood of the image).
+* Classification of Compact Riemann surfaces (Artin 11.9) (vanishing locus of f: C^2 -> C^2) as a n-sheeted branch covering space (every fibre consists of n points, and every neighborhood on the points of fibre homeomorphic to open neighborhood of the image).
 
 12/19
 * Hilbert's Nullstellensatz (Artin Theorem 11.8.6): Maximal ideals in C[x_1,x_2,...,x_n] are in bijective correspondence with points in C^n. This is the starting point of Algebraic Geometry: algebraic property of C[x]/I is closely related to the geometric properties of V (algebraic variety).
