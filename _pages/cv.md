@@ -19,6 +19,7 @@ Math Classes
   + 110BH - Algebra
   + 121 - Topology
   + 32BH - Multivariable Calculus
+  + 255A - Functional Analysis
 * Fall 2023:
   + 110AH - Algebra
   + 115AH - Linear Algebra
@@ -27,9 +28,8 @@ Math Classes
   + 170E - Introduction to Probability & Statistics Part 1: Probability
   + 170S - Introduction to Probability & Statistics Part 2: Statistics
   + 131A - Real Analysis
-* Audit:
+* Audits:
   + 246A - Complex Analysis (Terry Tao!)
-  + 225B - Differential Topology
   + 246B - Complex Analysis
     
 Publications
