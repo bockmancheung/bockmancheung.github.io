@@ -16,12 +16,12 @@ Education
 Math Classes
 ------
 * Winter 2024
+  + 255A - Functional Analysis
   + 110BH - Algebra
   + 121 - Topology
   + 32BH - Multivariable Calculus
-  + 255A - Functional Analysis
 * Fall 2023:
-  + 110AH - Algebra
+  + 110AH - Algebra 
   + 115AH - Linear Algebra
   + 32AH - Multivariable Calculus
 * Summer 2023:
