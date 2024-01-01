@@ -7,6 +7,8 @@ author_profile: true
 
 What I learned today:
 ------
+1/1
+* Hahn-Banach Theorem for normed spaces: for a subspace U of X and a continuous linear functional u': U -> F, there exists an extension linear functional x': X -> F. This tells us that the dual space is "somehow large".
 12/20
 * Classification of Compact Riemann surfaces (Artin 11.9) (vanishing locus of f: C^2 -> C^2) as a n-sheeted branch covering space (every fibre consists of n points, and every neighborhood on the points of fibre homeomorphic to open neighborhood of the image).
 
