@@ -14,7 +14,7 @@ Mathematics
 ------
 Please check out (but also take as a grain of salt) my review of the classes I have taken in /classes/ , including but not limited to teaching quality, grading, and difficulty of the content. 
 
-Some resources I found useful in Algebra learning:
+Recommended beginner resources to learn Abstract algebra:
 
 Algebra Ch.0, Aluffi <br>
 Algebra, Artin <br>
