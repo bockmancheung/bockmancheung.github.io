@@ -38,7 +38,6 @@ Publications
 
 Projects
 ------
-* This Winter 2024, I will undertake a reading project with Prof. Robert E. Greene on his book Introduction to Topology (Ch.3 - 4).
   
 Talks
 ------
