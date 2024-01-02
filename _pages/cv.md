@@ -29,7 +29,7 @@ Math Classes
   + 170S - Introduction to Probability & Statistics Part 2: Statistics
   + 131A - Real Analysis
 * Audits:
-  + 246A - Complex Analysis (Terry Tao!)
+  + 246A - Complex Analysis
   + 246B - Complex Analysis
     
 Publications
