@@ -7,6 +7,9 @@ author_profile: true
 
 What I learned today:
 ------
+1/4
+* Briefly looked at Spectral theory (spectral theorem for compact operators) to prepare for my functional analysis class. By brief I mean I skimmed through the wiki page.
+
 1/1/2024
 * Hahn-Banach Theorem for normed spaces: for a subspace U of X and a continuous linear functional u': U -> F, there exists an extension linear functional x': X -> F. This tells us that the dual space is "somehow large" (for a Hilbert space the space is isometrically isomorphic to its dual space, but this might not be generally the case.)
  
