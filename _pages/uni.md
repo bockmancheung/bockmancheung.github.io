@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 Fall Quarter 2023 Recap
----
+------
 Math
 ---
 I took 4 classes in this quarter - one class more than what a typical freshman would take. All 3 of my math classes (32AH, 110AH, 115AH) are honors, 2 of them upper divisions and demanded maturity with proof writing. I was a bit worried about whether I could complete them, but I somehow sticked with my schedule and clutched a good grade in my final exams.
