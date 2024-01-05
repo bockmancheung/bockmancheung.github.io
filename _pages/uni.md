@@ -4,6 +4,7 @@ title: "My UCLA life"
 permalink: /uni/
 author_profile: true
 ---
+
 *I am writing these posts not because I know I will be famous one day and these notes will be a great source of psychoanalysis, but that I want to reflect on my purpose in life in complete honesty.*
 ------
 Fall Quarter 2023 Recap
