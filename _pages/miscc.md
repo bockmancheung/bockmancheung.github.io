@@ -11,4 +11,5 @@ Friends
 <a href="https://max.steinbergfour.com/"> Max Steinberg </a> <br>
 <a href="https://amgminequality.github.io/"> Eaton Liu </a>, aspiring logician <br>
 <a href="http://bzhangbp.student.ust.hk/"> Baining (Ben) Zhang </a> <br>
-<a href= "https://teinc3.github.io/"> Ron Shum </a>
+<a href= "https://teinc3.github.io/"> Ron Shum </a> <br>
+Akselai (Honorable Mention)
