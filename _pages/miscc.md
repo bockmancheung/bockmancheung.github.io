@@ -12,4 +12,4 @@ Friends
 <a href="https://amgminequality.github.io/"> Eaton Liu </a>, aspiring logician <br>
 <a href="http://bzhangbp.student.ust.hk/"> Baining (Ben) Zhang </a> <br>
 <a href= "https://teinc3.github.io/"> Ron Shum </a> <br>
-<a href= "https://akselai.github.io/"> Akselai </a> <br>
+<a href= "https://akselai.github.io/"> Hiu-Long Chan (Akselai) </a> <br>
