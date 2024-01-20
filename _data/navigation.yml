@@ -11,9 +11,6 @@ main:
     
   - title: "University Life"
     url: /uni/
-
-  - title: "Algebraic Topology Blog"
-    url: /topo/
     
   - title: "Miscellaneous"
     url: /miscc/
