@@ -14,7 +14,7 @@ Mathematics
 ------
 My current learning interests are algebraic topology and functional analysis.
 
-My personal favorite resources for Algebra:
+Personal favorite resources for Algebra:
 
 Algebra Ch.0, Aluffi <br>
 Algebra, Artin <br>
