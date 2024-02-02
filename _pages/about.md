@@ -8,13 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my personal webpage! I am Bockman Cheung, a first year UCLA math undergraduate. My current learning interests are algebraic topology and functional analysis. I am also a human rights activist, environmental advocate, and an amateur musician/concert goer. 
+Welcome to my personal webpage! I am Bockman Cheung, a first year UCLA math undergraduate. I am also a human rights activist, environmental advocate, and an amateur musician/concert goer. 
 
 Mathematics
 ------
-Please check out (but also take as a grain of salt) my review of the classes I have taken in /classes/ , including but not limited to teaching quality, grading, and difficulty of the content. 
+My current learning interests are algebraic topology and functional analysis.
 
-Recommended beginner resources to learn Abstract algebra:
+My personal favorite resources for Algebra:
 
 Algebra Ch.0, Aluffi <br>
 Algebra, Artin <br>
@@ -27,4 +27,5 @@ My major instrument is the piano, I have been playing and learning it for over a
 
 Daily Bruin
 ------
-I published my first <a href="https://dailybruin.com/2024/02/01/ucla-admin-to-end-dining-hall-restriction-for-overdue-fees"> Daily Bruin article, on the ending of UCLA dining account restrictions for late payment. </a>
+I published my first <a href="https://dailybruin.com/2024/02/01/ucla-admin-to-end-dining-hall-restriction-for-overdue-fees"> Daily Bruin article </a>, on the ending of UCLA dining account restrictions for late payment.
+
