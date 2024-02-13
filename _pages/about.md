@@ -20,7 +20,7 @@ Algebra Ch.0, Aluffi <br>
 Algebra, Artin <br>
 Algebra, Dummit and Foote <br>
 <a href="https://canvas.ust.hk/courses/50980"> HKUST Math 5111 Notes </a>
-
+<a href="https://mathoverflow.net/a/70891/517395"> Resources on Category Theory (towards infty cat) </a>
 Music
 ------
 My major instrument is the piano, I have been playing and learning it for over a decade. Last fall quarter I collaborated with percussionist Viraj Sonawala on Fiddle Faddle by Leroy Anderson in Bruin Chamber Musicians, and that has been one of my favorite moments so far. 
