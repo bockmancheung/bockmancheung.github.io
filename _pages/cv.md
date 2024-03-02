@@ -41,7 +41,8 @@ Talks
 
 Math-related Experiences
 ------
-* Spring 2024, Assistant Instructor, UCLA Olga Radko Endowed Math Circle 
+* Spring 2024, Assistant Instructor, UCLA Olga Radko Endowed Math Circle
+  
 Extracurriculars
 ------
 * Fall 2023 - , Daily Bruin Opinion Columnist
