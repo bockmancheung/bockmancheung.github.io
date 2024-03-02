@@ -42,7 +42,9 @@ Talks
 Experiences
 ------
 * Spring 2024, Assistant Instructor, UCLA Olga Radko Endowed Math Circle
-* Winter 2024, Direct Reading Program with Ben Spitz, Topic: The Grothendieck Group K_0  
+* Winter 2024, Direct Reading Program with Ben Spitz, Topic: The Grothendieck Group K_0
+
+
 Extracurriculars
 ------
 * Fall 2023 - , Daily Bruin Opinion Columnist
