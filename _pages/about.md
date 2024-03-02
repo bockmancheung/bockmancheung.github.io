@@ -16,13 +16,13 @@ I'm interested in general abstract nonsense, but I'd love to look more into the 
 
 Resources I find most useful in a first course of algebra:
 Algebra, Artin <br>
-<a href="https://canvas.ust.hk/courses/50980"> HKUST Math 5111 Notes </a>
-Algebra, Lang
+<a href="https://canvas.ust.hk/courses/50980"> HKUST Math 5111 Notes </a> <br>
+Algebra, Lang <br>
 <a href="https://mathoverflow.net/a/70891/517395"> Resources on Category Theory (towards infty cat) </a>
 
 Music
 ------
-My major instrument is the piano, I have been playing and learning it for over a decade. Last fall quarter I collaborated with percussionist Viraj Sonawala on Fiddle Faddle by Leroy Anderson in Bruin Chamber Musicians, and that has been one of my favorite moments so far. 
+My major instrument is piano, although I'm arguably still mediocre in it. In Fall 2023, I performed with percussionist Viraj Sonawala in Bruin Chamber Musicians on a Piano-Xylophone arrangment of Leroy Anderson's <a href="https://drive.google.com/file/d/1jEOYYdv9ud3tySmvCltWasAuPfBAbL8W/view?usp=sharing"> Fiddle Faddle </a><br>. This Winter 2024 I will be performing with Viraj again on the Myraid of Stars by Yukiko Nishimura.
 
 Daily Bruin
 ------
