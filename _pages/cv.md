@@ -48,4 +48,6 @@ Experiences
 Extracurriculars
 ------
 * Fall 2023 - , Daily Bruin Opinion Columnist
-* Fall 2023 - , Bruin Chamber Musicians Member
+* Fall 2023 - , Bruin Chamber Musicians Member <br>
+
+Full academic CV in PDF is available upon request.
