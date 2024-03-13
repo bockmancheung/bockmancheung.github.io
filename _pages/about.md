@@ -18,7 +18,7 @@ Resources I find most useful for a first course of algebra: <br>
 Algebra, Artin <br>
 <a href="https://canvas.ust.hk/courses/50980"> HKUST Math 5111 Notes </a> <br>
 Algebra, Lang <br>
-<a href="https://mathoverflow.net/a/70891/517395"> Resources on Category Theory (towards infty cat) </a>
+<a href="https://mathoverflow.net/a/70891/517395"> Resources on Category Theory </a>
 
 If you would like to need advice on math classes and math learning, you can email me. I would love to connect with you and answer your questions.
 
@@ -28,7 +28,7 @@ My instrument is piano, and I am very involved in performing classical music and
 
 I am involved in Bruin Chamber Musicians, a chamber music club for non-music majors. My performances in UCLA: <br>
 * Yukiko Nishimura, Myraid of Stars, <a href="https://www.youtube.com/watch?v=OrdK84jvPcg&list=PLwzikTIanNz2S2H5xbVAPMi1RYJ1Gc3W5&index=2"> I. Starry Heaven </a><br>. Percussionist: Viraj Sonawala, Winter 2024.
-* Leroy Anderson, <a href="https://drive.google.com/file/d/1jEOYYdv9ud3tySmvCltWasAuPfBAbL8W/view?usp=sharing"> Fiddle Faddle. </a><br>. Percussionist: Viraj Sonawala, Fall 2023.
+* Leroy Anderson, <a href="https://drive.google.com/file/d/1jEOYYdv9ud3tySmvCltWasAuPfBAbL8W/view?usp=sharing"> Fiddle Faddle </a><br>. Percussionist: Viraj Sonawala, Fall 2023.
 
 
 Daily Bruin
