@@ -8,10 +8,10 @@ Winter 2024
 ------
 ***Math 32BH Multivariable Calculus***, Instructor: Prof. R. Wong <br>
 Overall rating: 7/10 <br>
-Topics covered: Multivariable integral calculus, including an introduction to manifolds (A k-dimensional manifold is locally diffeomorphic to R^k).
+Topics covered: Multivariable integral calculus, including an introduction to manifolds (A k-dimensional differentiable manifold is locally diffeomorphic to R^k).
 <br>
 <br>
-Prof. Wong 
+Prof. Wong was
 
 
 Fall 2023
