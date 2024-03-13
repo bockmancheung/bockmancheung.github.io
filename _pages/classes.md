@@ -4,6 +4,8 @@ title: "Classes Review"
 permalink: /classes/
 author_profile: true
 ---
+Welcome to my class evaluations page! I try to give my honest opinion in the classes I have taken. By the end of every evaluation I like to add a little reflection, so make sure to read each of them in entirety!
+
 Winter 2024
 ------
 ***Math 32BH Multivariable Calculus***, Instructor: Prof. R. Wong <br>
