@@ -24,7 +24,7 @@ If you would like to need advice on math classes and math learning, you can emai
 
 Music
 ------
-My major instrument is piano, although I'm arguably still mediocre in it. In Fall 2023, I performed with percussionist Viraj Sonawala in Bruin Chamber Musicians on a Piano-Xylophone arrangment of Leroy Anderson's <a href="https://drive.google.com/file/d/1jEOYYdv9ud3tySmvCltWasAuPfBAbL8W/view?usp=sharing"> Fiddle Faddle </a><br>. This Winter 2024 I will be performing with Viraj again on the first movement of <a href="https://www.youtube.com/watch?v=OrdK84jvPcg&list=PLwzikTIanNz2S2H5xbVAPMi1RYJ1Gc3W5&index=2"> Myraid of Stars </a><br> by Yukiko Nishimura.
+My major instrument is piano, although I'm arguably still mediocre in it. In Fall 2023, I performed with percussionist Viraj Sonawala in Bruin Chamber Musicians on a Piano-Xylophone arrangment of Leroy Anderson's <a href="https://drive.google.com/file/d/1jEOYYdv9ud3tySmvCltWasAuPfBAbL8W/view?usp=sharing"> Fiddle Faddle. </a><br> This Winter 2024 I will be performing with Viraj again on the first movement of <a href="https://www.youtube.com/watch?v=OrdK84jvPcg&list=PLwzikTIanNz2S2H5xbVAPMi1RYJ1Gc3W5&index=2"> Myraid of Stars </a><br> by Yukiko Nishimura.
 
 Daily Bruin
 ------
