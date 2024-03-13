@@ -24,7 +24,7 @@ If you would like to need advice on math classes and math learning, you can emai
 
 Music
 ------
-My instrument is piano, and I am very involved in performing classical music and going to classical concerts.
+My instrument is piano, and I am very involved in performing classical music and going to classical concerts. Very fun hobby I am grateful of my parents.
 
 I am involved in Bruin Chamber Musicians, a chamber music club for non-music majors. My performances in UCLA: <br>
 * Yukiko Nishimura, Myraid of Stars, <a href="https://www.youtube.com/watch?v=OrdK84jvPcg&list=PLwzikTIanNz2S2H5xbVAPMi1RYJ1Gc3W5&index=2"> I. Starry Heaven </a><br>. Percussionist: Viraj Sonawala, Winter 2024.
