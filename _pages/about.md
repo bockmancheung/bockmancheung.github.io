@@ -14,11 +14,11 @@ Mathematics
 ------
 I'm interested in general abstract nonsense (algebraic topology/algebraic geometry), but I'd love to look into the analysis/dynamical systems side. 
 
-Resources I find most useful for a first course of algebra: <br>
-Algebra, Artin <br>
-<a href="https://canvas.ust.hk/courses/50980"> HKUST Math 5111 Notes </a> <br>
-Algebra, Lang <br>
-<a href="https://mathoverflow.net/a/70891/517395"> Resources on Category Theory </a>
+Resources I find most useful for a first course in algebra: <br>
+* Algebra, Artin <br>
+* <a href="https://canvas.ust.hk/courses/50980"> HKUST Math 5111 Notes </a> <br>
+* Algebra, Lang <br>
+* <a href="https://mathoverflow.net/a/70891/517395"> Resources on Category Theory </a>
 
 If you would like to need advice on math classes and math learning, you can email me. I would love to connect with you and answer your questions.
 
