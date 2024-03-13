@@ -33,7 +33,9 @@ I am involved in Bruin Chamber Musicians, a chamber music club for non-music maj
 
 Daily Bruin
 ------
-I write for Daily Bruin as an opinion columnist, and I focus on campus issues. You can check out my works <a href="https://dailybruin.com/author/bockman-cheung"> here </a>. In the future, I would like to look for opportunities related to communication in sciences to the public.
+I write for Daily Bruin as an opinion columnist, and I focus on campus issues. In the future, I would like to look for opportunities related to communication in sciences to the public. My list of articles: <br>
+* <a href="https://dailybruin.com/2024/02/26/opinion-improving-the-state-of-pianos-on-the-hill-is-the-key-to-student-well-being"> Opinion: Improving the state of pianos on the Hill is the key to student well-being </a>
+* <a href="https://dailybruin.com/2024/02/01/ucla-admin-to-end-dining-hall-restriction-for-overdue-fees"> UCLA admin to end dining hall restriction for overdue fees </a>
 
 Olga Radko Endowed Math Circle (ORMC) 
 ------
