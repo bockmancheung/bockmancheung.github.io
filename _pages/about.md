@@ -6,15 +6,6 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-Q2DDDQTRB3"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-Q2DDDQTRB3');
-</script>
 ---
 
 Welcome to my personal webpage! I am Bockman Cheung, a first year UCLA math undergraduate. I am also a human rights activist, environmental advocate, and an amateur musician/concert goer. 
