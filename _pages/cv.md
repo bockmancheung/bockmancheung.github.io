@@ -15,6 +15,11 @@ Education
   
 Math Classes
 ------
+* Spring 2024:
+  + 225C - Algebraic Topology
+  + 132H - Complex Analysis
+  + 142 - Mathematical Modelling
+  + Physics 231B - Mathematical Physics (Group Theory)
 * Winter 2024:
   + 110BH - Algebra
   + 121 - Topology
