@@ -5,11 +5,12 @@ permalink: /uni/
 author_profile: true
 ---
 
-> I am writing these posts not because I know I will be famous one day and these notes will be a great source of psychoanalysis, but that I want to reflect on my purpose in life in complete honesty.
-
-Fall Quarter 2023 Recap
+Winter Quarter 2024
 ------
-### Math
+### Math: A Very Far Glimpse on the Beauty of Modern Mathematics
+Fall Quarter 2023 
+------
+### Math - Getting Started at UCLA
 I took 4 classes in this quarter - one class more than what a typical freshman would take. All 3 of my math classes (32AH, 110AH, 115AH) were honors, 2 of them were upper divisions and demanded maturity with proof writing. Even though I was concerned about completing them, I managed to stick to my schedule and clutch my finals to get a decent grade.
 
 I do not advise anyone to follow my path without sufficient preparation, for the mastery of these materials requires dedication of time, but I think my act of taking these hard classes illustrated just my general attitude of studying in UCLA - craving for knowledge! UCLA is a wonderful academic institution to study math. We have objectively the best professors in the world, very helpful graduate students, and advanced and enthusiastic undergraduate students. There is simply no excuse not to absorb knowledge greedily like a sponge. These three months were more intellectually stimulating than all of my previous 17 years of life combined. I tried to make the most of learning in my busy schedule by auditing graduate classes. I audited Prof. Paul Balmer's 210A Algebra for 4 weeks: we went through category theory and I still have a headache when thinking of the Yoneda Lemma and (co)limit/adjoints... the hell to who invented that abstract nonsense! That said, I do like Balmer’s lecture style, in front of the blackboard he is the artist and showman, displaying everything aesthetically. Of all professor’s boardwork I like Prof. Alexander Merkurjev the most. He did not write much on the board: my friend joked that he only needed to bring one paper to the class because he could copy down everything from the board in that paper. However, every word he writes must carry meaning; none is superfluous. He was clear and concise, which I found the most pleasant because everything was in perfect order, nothing more, nothing less. In fact, that is the attitude I think one should approach math, writing, or any other subject. Mozart once remarked that his favorite sound is “silence”, and in his music, he distills emotions into simple melody but profound clarity, and that is what I think a mathematician should similarly work their style on.
@@ -21,5 +22,5 @@ The class I made the most out of was Prof. Tao's 246A complex analysis - yes, *t
 I think one of the most important factors that would make one a successful mathematician is to always strive for opportunities and learn as much as possible. This is especially true for an American university: if one sticks to the official schedule of mathematics one would learn nothing with his bachelor’s degree of mathematics (c.f. British universities, where there is much less flexibility but an average student will get sufficient spoon-feeding to actually know how to do math). My experience in this quarter (and Summer 2023 quarter) helped me understand how to “cheat” the system by taking harder classes (you can replace some lower division coursework with upper division coursework, effectively learning more), which I hope to illuminate future fellow math majors here if they happen to come across my post. I have also started going to math seminars and colloquiums about twice a week, listening to students presenting their reading project on a math paper (e.g. one presentation was on a proof of James Maynard’s result on the small gaps of primes related to the twin prime conjecture) or listening to postgrads attempting to describe their PhD thesis. The former I can usually follow the train of thoughts because it is less demanding in technicality, and the latter I only understand about 1%, but I still keep going to the latter because I think math must be learned in a non-linear way: getting prior exposure to concepts and abstractions as early as possible even though one has a knowledge gap in between, so one can get more comfortable with the next encounter, and also sufficient motivation to study the tool which one might have no idea what applications it might have before. And last but not least, I think these talks are also a great way to connect with the mathematical circle and understand the general trend in mathematics. 
 
 ### Music
-### Culture
+### Cultural Differences
 ### Politics
