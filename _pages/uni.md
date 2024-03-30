@@ -7,12 +7,12 @@ author_profile: true
 
 ## Winter Quarter 2024
 ------
-#### Exploring the Majesty of Modern Mathematics: A Very Distant View
+### Exploring the Majesty of Modern Mathematics: A Very Distant View
 
 
 ## Fall Quarter 2023 
 ------
-#### Thrilling New World: Math at UCLA 
+### Thrilling New World: Math at UCLA 
 I took 4 classes in this quarter - one class more than what a typical freshman would take. All 3 of my math classes (32AH, 110AH, 115AH) were honors, 2 of them were upper divisions and demanded maturity with proof writing. Even though I was concerned about completing them, I managed to stick to my schedule and clutch my finals to get a decent grade.
 
 I do not advise anyone to follow my path without sufficient preparation, for the mastery of these materials requires dedication of time, but I think my act of taking these hard classes illustrated just my general attitude of studying in UCLA - craving for knowledge! UCLA is a wonderful academic institution to study math. We have objectively the best professors in the world, very helpful graduate students, and advanced and enthusiastic undergraduate students. There is simply no excuse not to absorb knowledge greedily like a sponge. These three months were more intellectually stimulating than all of my previous 17 years of life combined. I tried to make the most of learning in my busy schedule by auditing graduate classes. I audited Prof. Paul Balmer's 210A Algebra for 4 weeks: we went through category theory and I still have a headache when thinking of the Yoneda Lemma and (co)limit/adjoints... the hell to who invented that abstract nonsense! That said, I do like Balmer’s lecture style, in front of the blackboard he is the artist and showman, displaying everything aesthetically. Of all professor’s boardwork I like Prof. Alexander Merkurjev the most. He did not write much on the board: my friend joked that he only needed to bring one paper to the class because he could copy down everything from the board in that paper. However, every word he writes must carry meaning; none is superfluous. He was clear and concise, which I found the most pleasant because everything was in perfect order, nothing more, nothing less. In fact, that is the attitude I think one should approach math, writing, or any other subject. Mozart once remarked that his favorite sound is “silence”, and in his music, he distills emotions into simple melody but profound clarity, and that is what I think a mathematician should similarly work their style on.
