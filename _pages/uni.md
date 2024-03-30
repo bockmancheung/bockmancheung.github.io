@@ -8,9 +8,14 @@ author_profile: true
 ## Winter Quarter 2024
 ------
 ### Exploring the Majesty of Modern Mathematics: A Very Distant View
+
 In reflecting on my mathematical adventures this quarter, I have this paradoxical feeling: while I’m proud my knowledge did greatly advance both conceptually and mathematically, I feel truly like an imposter here because there were too much opportunities in UCLA that I was not able to make use of (alas, 24 hours a day is very limited), and the more I learned, the more I felt ignorant in front of the vast universe.
 
-My ventures outside of my standard classes have produced a lasting effect on me. Here are some of the many seminars and colloquia I went to:
+I took 3 math classes this quarter: 110BH Rings and Modules by Dr. Alexander Merkurjev, 32BH Integral Multivariable Calculus by Dr. Richard Wong, and 121 Topology by Dr. Ko Honda. In retrospect, these classes were quite solid and suited my level, but I did not feel satisfied during the quarter of my classes, because I wanted to take graduate class instead. I partially succeeded: I enrolled in Dr. Michael Hitrik’s 255A Functional Analysis, but it eventually became too overwhelming for me that I decided to drop the class. Functional Analysis is a very interesting subject though and it has a special place in my heart. After dropping Hitrik’s class though, I freed up so much time that I did a lot of learning and could have time to further my hobbies outside school.
+
+My personal triumph in math this quarter came from my attempt to understand K-theory, under a directed reading program led by Ben Spitz, an excellent mentor. We met weekly to talk about Weibel’s K-book, which I think we went through around 30% of the first two chapters. K-theory is extremely hard but also extremely rewarding. It concerns the groups K0, K1, K2, …, which apparently are important invariants in many areas of algebra and number theory. The grand goal of algebra concerns classification of spaces and objects, and you want to tell if one space is “the same” as the other by looking at “invariants”, i.e. properties that do not change. You could tell, for example, that a donut is different from a sphere because the former has one hole but the latter does not. This is one of the invariants (Euler Characteristic) in topology. K-theory studies an important invariant that influences algebraic geometry, algebraic topology, and much more. I spent a lot of time understanding sheaves and projective modules, and the subject is really quite beautiful once the different perspectives align. 
+
+Besides this, I was so pleased to be able to attend seminars and colloquia from a world-class university. They supplied me with immense knowledge and joy that I could not have conceived of if I stayed in a local university in Hong Kong. I could list some of them here, 
 
 1. Symmetric Tensor Categories, by Pavel Etingof from MIT. It’s a new approach to study representations by considering the category of representations altogether instead of individual representations. I think this notion of considering the entire structure of an object reoccurs extremely frequently, for example in algebraic topology one considers the group of covering transformations of a covering space instead of a single covering space. 
 
@@ -23,9 +28,6 @@ My ventures outside of my standard classes have produced a lasting effect on me.
 5. Graduate Student Seminars on every Thursday. 
 
 I could elaborate on every talk I went to, but it would be too time-consuming for me and would defeat layman readers. Sometimes I would walk into an algebra seminar and understand literally 0% of what they were saying, but it is okay. It might sound masochistic to say I “enjoyed” those talks, but I certainly do think they bulked me up in my mathematical maturity and made me more antifragile when I come across an entirely new topic. I still think they’re great to go, suffer, and learn.
-
-My personal triumph in math this quarter came from my attempt to understand K-theory, under a directed reading program led by Ben Spitz, an excellent mentor. We met weekly to talk about Weibel’s K-book, which I think we went through around 30% of the first two chapters. K-theory is extremely hard but also extremely rewarding. It concerns the groups K0, K1, K2, …, which apparently are important invariants in many areas of algebra and number theory. The grand goal of algebra concerns classification of spaces and objects, and you want to tell if one space is “the same” as the other by looking at “invariants”, i.e. properties that do not change. You could tell, for example, that a donut is different from a sphere because the former has one hole but the latter does not. This is one of the invariants (Euler Characteristic) in topology. K-theory studies an important invariant that influences algebraic geometry, algebraic topology, and much more. I spent a lot of time understanding sheaves and projective modules, and the subject is really quite beautiful once the different perspectives align. 
-
 
 
 ## Fall Quarter 2023 
