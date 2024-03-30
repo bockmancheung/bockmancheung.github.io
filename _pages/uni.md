@@ -8,6 +8,21 @@ author_profile: true
 ## Winter Quarter 2024
 ------
 ### Exploring the Majesty of Modern Mathematics: A Very Distant View
+In reflecting on my mathematical adventures this quarter, I have this paradoxical feeling: while I’m proud my knowledge did greatly advance both conceptually and mathematically, I feel truly like an imposter here because there were too much opportunities in UCLA that I was not able to make use of (alas, 24 hours a day is very limited), and the more I learned, the more I felt ignorant in front of the vast universe.
+
+My ventures outside of my standard classes have produced a lasting effect on me. Here are some of the many seminars and colloquia I went to:
+
+1. Symmetric Tensor Categories, by Pavel Etingof from MIT. It’s a new approach to study representations by considering the category of representations altogether instead of individual representations. I think this notion of considering the entire structure of an object reoccurs extremely frequently, for example in algebraic topology one considers the group of covering transformations of a covering space instead of a single covering space. 
+
+2. An Introduction to the Langlands Program, by Jukka Keranen from UCLA. 
+
+3. Homotopy Groups of Spheres, by Zhouli Xu from UCSD. He gave an excellent introduction to stable homotopy theory (namely, it arises from looking at the patterns of the higher homotopy groups of S^n) and motivic homotopy. Homotopy groups of spheres in general are extremely hard to compute (a ton of spectral sequences…), but they are important because of geometric considerations: the Generalized Poincare conjecture states that any closed smooth manifold of dimension n is diffeomorphic to S^n. The case n = 7 is false, demonstrated by Milnor’s exotic 7-sphere which has 28 different smooth structures. Thus the questions that homotopy groups of spheres could answer are, for which n is there a unique smooth structure on S^n, and how many smooth structures are there? I think this is a very fascinating area of mathematics which is extremely deep.
+
+4. Algebraic Topology Participating Seminar Series, run by Undergraduate and Graduate students every Friday. The topic was Algebraic K-Theory, and I remember Zach talking about Milnor’s definition of higher K-groups and Logan talking about Topological Hochschild Homology and much more, all of them intensively my brain power.
+
+5. Graduate Student Seminars on every Thursday. 
+
+I could elaborate on every talk I went to, but it would be too time-consuming for me and would defeat layman readers. Sometimes I would walk into an algebra seminar and understand literally 0% of what they were saying, but it is okay. It might sound masochistic to say I “enjoyed” those talks, but I certainly do think they bulked me up in my mathematical maturity and made me more antifragile when I come across an entirely new topic. I still think they’re great to go, suffer, and learn.
 
 
 ## Fall Quarter 2023 
