@@ -8,6 +8,8 @@ author_profile: true
 Winter Quarter 2024
 ------
 ### Exploring the Majesty of Modern Mathematics: A Very Distant View
+
+------
 Fall Quarter 2023 
 ------
 ### Thrilling New World: Math at UCLA 
