@@ -29,6 +29,10 @@ Besides this, I was so pleased to be able to attend seminars and colloquia from 
 
 I could elaborate on every talk I went to, but it would be too time-consuming for me and would defeat layman readers. Sometimes I would walk into an algebra seminar and understand literally 0% of what they were saying, but it is okay. It might sound masochistic to say I “enjoyed” those talks, but I certainly do think they bulked me up in my mathematical maturity and made me more antifragile when I come across an entirely new topic. I still think they’re great to go, suffer, and learn.
 
+This quarter can, I think, be best summarized by my wrestling with Algebra. I have struggled learning it, but also have had an existential crisis in doing pure math that still affects me. In my mind, the uselessness of algebra outside of pure math has made me reflect on whether I should continue in the path of understanding the great aesthetic platonic universe when the world is burning and people are getting killed by war and disaster. It has also given me many moments of happiness when I discovered marvelous connections, but it also kept tormenting me when I thought I could study something more “useful”. At the time of writing (March 30, 2024), I still cannot reach a consolation in my inner self. I would love to hear some advice on this.
+
+
+
 
 ## Fall Quarter 2023 
 ------
