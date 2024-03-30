@@ -24,6 +24,9 @@ My ventures outside of my standard classes have produced a lasting effect on me.
 
 I could elaborate on every talk I went to, but it would be too time-consuming for me and would defeat layman readers. Sometimes I would walk into an algebra seminar and understand literally 0% of what they were saying, but it is okay. It might sound masochistic to say I “enjoyed” those talks, but I certainly do think they bulked me up in my mathematical maturity and made me more antifragile when I come across an entirely new topic. I still think they’re great to go, suffer, and learn.
 
+My personal triumph in math this quarter came from my attempt to understand K-theory, under a directed reading program led by Ben Spitz, an excellent mentor. We met weekly to talk about Weibel’s K-book, which I think we went through around 30% of the first two chapters. K-theory is extremely hard but also extremely rewarding. It concerns the groups K0, K1, K2, …, which apparently are important invariants in many areas of algebra and number theory. The grand goal of algebra concerns classification of spaces and objects, and you want to tell if one space is “the same” as the other by looking at “invariants”, i.e. properties that do not change. You could tell, for example, that a donut is different from a sphere because the former has one hole but the latter does not. This is one of the invariants (Euler Characteristic) in topology. K-theory studies an important invariant that influences algebraic geometry, algebraic topology, and much more. I spent a lot of time understanding sheaves and projective modules, and the subject is really quite beautiful once the different perspectives align. 
+
+
 
 ## Fall Quarter 2023 
 ------
