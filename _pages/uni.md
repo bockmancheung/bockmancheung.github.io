@@ -9,8 +9,8 @@ Winter Quarter 2024
 ------
 ### Exploring the Majesty of Modern Mathematics: A Very Distant View
 
-------
-Fall Quarter 2023 
+
+# Fall Quarter 2023 
 ------
 ### Thrilling New World: Math at UCLA 
 I took 4 classes in this quarter - one class more than what a typical freshman would take. All 3 of my math classes (32AH, 110AH, 115AH) were honors, 2 of them were upper divisions and demanded maturity with proof writing. Even though I was concerned about completing them, I managed to stick to my schedule and clutch my finals to get a decent grade.
