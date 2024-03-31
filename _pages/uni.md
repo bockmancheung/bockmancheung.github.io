@@ -9,6 +9,10 @@ author_profile: true
 ------
 ### Exploring the Majesty of Modern Mathematics: A Very Distant View
 
+> "The more I learned, the more conscious did I become of the fact that I was ridiculous. So that for me my years of hard work at the university seem in the end to have existed for the sole purpose of demonstrating and proving to me, the more deeply engrossed I became in my studies, that I was an utterly absurd person."
+
+Fyodor Dostoevsky, The Dream of a Ridiculous Man
+
 In reflecting on my mathematical adventures this quarter, I have this paradoxical feeling: while I’m proud my knowledge did greatly advance both conceptually and mathematically, I feel truly like an imposter here because there were too much opportunities in UCLA that I was not able to make use of (alas, 24 hours a day is very limited), and the more I learned, the more I felt ignorant in front of the vast universe.
 
 I took 3 math classes this quarter: 110BH Rings and Modules by Dr. Alexander Merkurjev, 32BH Integral Multivariable Calculus by Dr. Richard Wong, and 121 Topology by Dr. Ko Honda. In retrospect, these classes were quite solid and suited my level, but I did not feel satisfied during the quarter of my classes, because I wanted to take graduate class instead. I partially succeeded: I enrolled in Dr. Michael Hitrik’s 255A Functional Analysis, but it eventually became too overwhelming for me that I decided to drop the class. Functional Analysis is a very interesting subject though and it has a special place in my heart. After dropping Hitrik’s class though, I freed up so much time that I did a lot of learning and could have time to further my hobbies outside school.
