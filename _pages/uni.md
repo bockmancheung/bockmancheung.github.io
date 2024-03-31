@@ -9,9 +9,7 @@ author_profile: true
 ------
 ### Exploring the Majesty of Modern Mathematics: A Very Distant View
 
-> "The more I learned, the more conscious did I become of the fact that I was ridiculous. So that for me my years of hard work at the university seem in the end to have existed for the sole purpose of demonstrating and proving to me, the more deeply engrossed I became in my studies, that I was an utterly absurd person."
-
-Fyodor Dostoevsky, The Dream of a Ridiculous Man
+> "The more I learned, the more conscious did I become of the fact that I was ridiculous. So that for me my years of hard work at the university seem in the end to have existed for the sole purpose of demonstrating and proving to me, the more deeply engrossed I became in my studies, that I was an utterly absurd person." - Fyodor Dostoevsky, The Dream of a Ridiculous Man
 
 In reflecting on my mathematical adventures this quarter, I have this paradoxical feeling: while I’m proud my knowledge did greatly advance both conceptually and mathematically, I feel truly like an imposter here because there were too much opportunities in UCLA that I was not able to make use of (alas, 24 hours a day is very limited), and the more I learned, the more I felt ignorant in front of the vast universe.
 
