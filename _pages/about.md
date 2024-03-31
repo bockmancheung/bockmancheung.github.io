@@ -12,7 +12,7 @@ Welcome to my personal webpage! I am Bockman Cheung, a first year UCLA math unde
 
 Mathematics
 ------
-I'm interested in general abstract nonsense (algebraic topology/algebraic geometry), but I'd love to look into the analysis/dynamical systems side. 
+I'm interested in general abstract nonsense (algebraic topology/algebraic geometry), but I'd love to look into the analysis side. 
 
 Resources I find most useful for a first course in algebra: <br>
 * Algebra, Artin <br>
