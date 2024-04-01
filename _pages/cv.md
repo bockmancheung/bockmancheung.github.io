@@ -19,7 +19,7 @@ Math Classes
   + 212A - Homological Algebra
   + 225C - Algebraic Topology
   + 132H - Complex Analysis
-  + 142 - Mathematical Modelling
+  + 133 - Fourier Analysis
 * Winter 2024:
   + 110BH - Algebra
   + 121 - Topology
