@@ -42,6 +42,7 @@ Publications
   
 Talks
 ------
+* Apr 2024, <a href="https://drive.google.com/file/d/1wAyAC3rP6CKIGandTolA996sPIoZU-mb/view?usp=sharing"> *The Grothendieck Group K0: What is K-Theory?*, Winter 2024 DRP project presentation 
 * Aug 2023, <a href="https://drive.google.com/file/d/11osYw7-6TlMaAoz0Ns-5TaqgeEsCY6in/view?usp=sharing"> *Basic Concepts in Catgeory Theory I* </a>, this is a talk summarizing what I learned in algebra from May 2023 to Aug 2023.
 
 Experiences
