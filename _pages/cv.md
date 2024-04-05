@@ -18,8 +18,8 @@ Math Classes
 * Spring 2024:
   + 212A - Homological Algebra
   + 225C - Algebraic Topology
+  + 235 - Topics in Manifold Theory: Grid Homology
   + 132H - Complex Analysis
-  + 133 - Fourier Analysis
 * Winter 2024:
   + 110BH - Algebra
   + 121 - Topology
