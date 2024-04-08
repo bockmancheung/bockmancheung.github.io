@@ -18,8 +18,8 @@ Math Classes
 * Spring 2024:
   + 212A - Homological Algebra
   + 225C - Algebraic Topology
-  + 235 - Topics in Manifold Theory: Grid Homology
   + 132H - Complex Analysis
+  + 135 - ODE
 * Winter 2024:
   + 110BH - Algebra
   + 121 - Topology
@@ -33,8 +33,9 @@ Math Classes
   + 170S - Introduction to Probability & Statistics Part 2: Statistics
   + 131A - Real Analysis
 * Audits:
-  + 246A - Complex Analysis
+  + 235 - Topics in Manifold Theory: Grid Homology
   + 246B - Complex Analysis
+  + 246A - Complex Analysis
     
 Publications
 ------
