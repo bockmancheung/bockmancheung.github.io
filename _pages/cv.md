@@ -20,9 +20,9 @@ Graduate Classes (incl. Reading Courses)
   + 225C - Algebraic Topology
 
 * Audits:
-  + 235 - Topics in Manifold Theory: Grid Homology
-  + 246B - Complex Analysis
-  + 246A - Complex Analysis
+  + 235 - Topics in Manifold Theory: Grid Homology (Spring 2024)
+  + 246B - Complex Analysis (Winter 2024)
+  + 246A - Complex Analysis (Fall 2023)
     
 Publications
 ------
