@@ -13,7 +13,7 @@ Education
 ------
 * B.S. in Mathematics, 2027 (expected)
   
-Graduate Classes (incl. Reading Courses)
+Graduate Classes 
 ------
 * Spring 2024:
   + 212A - Homological Algebra
