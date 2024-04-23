@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to Bock-Man Cheung's webpage! I am a first year UCLA math undergraduate. Outside of math, I am very involved in supporting the cause of Palestian struggles (activism), piano playing (my interest lies in Bach and Beethoven, and I am also looking into modern/contemporary music such as Schoenberg recently), and writing (opinion articles and journalism).
+Welcome to Bock-Man Cheung's webpage! I am a first year UCLA math undergraduate. Outside of math, I am most involved in supporting the cause of Palestian struggles and workers' rights (activism), piano playing (my interest lies in Bach and Beethoven, and I am also looking into modern/contemporary music such as Schoenberg recently), and writing (opinion articles and journalism).
 
 Mathematics
 ------
-I'm interested in general abstract nonsense (algebraic topology/algebraic geometry), but I'd love to look into the analysis side. 
+I'm interested in general algebraic topology and algebraic geometry. It is really amazing to see how (co)homology comes up everywhere. 
 
 Resources I find most useful for a first course in algebra: <br>
 * Algebra, Artin <br>
