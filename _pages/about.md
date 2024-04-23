@@ -12,7 +12,7 @@ Welcome to Bock-Man Cheung's webpage! I am a first year UCLA math undergraduate.
 
 Mathematics
 ------
-I'm interested in general algebraic topology and algebraic geometry. It is really amazing to see how (co)homology comes up everywhere. 
+I'm interested in general algebraic topology and algebraic geometry. It is really amazing to see how (co)homology comes up everywhere, from singular cohomology to sheaf cohomology, and to grid homology of knots. 
 
 Resources I find most useful for a first course in algebra: <br>
 * Algebra, Artin <br>
