@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to Bock-Man Cheung's webpage! I am a first year UCLA math undergraduate. Outside of math, I am most involved in supporting the cause of Palestian struggles and workers' rights (activism), piano playing (my interest lies in Bach and Beethoven, and I am also looking into modern/contemporary music such as Schoenberg recently), and writing (opinion articles and journalism).
+Welcome to Bockman Cheung's webpage! I am a first year UCLA math undergraduate. Outside of math, I am most involved in supporting the cause of Palestian struggles and workers' rights (activism), piano playing (my interest lies in Bach and Beethoven, and I am also looking into modern/contemporary music such as Schoenberg recently), and writing (opinion articles and journalism).
 
 Academic Focus
 ------
