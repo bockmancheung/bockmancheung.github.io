@@ -12,7 +12,7 @@ Welcome to Bockman Cheung's webpage! I am a first year UCLA math undergraduate. 
 
 Academic Focus
 ------
-I'm interested in learning homotopy theory (higher algebra), algebraic geometry, and various cohomology theories througout mathematics. In one year from now (i.e. by the end of sophmore year), I would like to see myself understanding the basics of those. <br> 
+I'm interested in learning homotopy theory (higher algebra), algebraic geometry, and various cohomology theories throughout mathematics. In one year from now (i.e. by the end of sophmore year), I would like to see myself understanding the basics of those. <br> 
 
 Great resources a first course in Modern Algebra <br>
 * Algebra, Artin <br>
