@@ -14,3 +14,10 @@ Friends
 * <a href="http://bzhangbp.student.ust.hk/"> Baining (Ben) Zhang </a> <br>
 * <a href= "https://teinc3.github.io/"> Ron Shum </a> <br>
 * <a href= "https://akselai.github.io/"> Hiu-Long Chan (Akselai) </a> <br>
+
+Useless Funsies
+------
+### Translating EGA (to learn Math and French) 
+
+1.0. Rings and Algebras <br>
+(1.0.1)
