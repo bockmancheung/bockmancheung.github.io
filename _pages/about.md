@@ -12,9 +12,9 @@ Welcome to Bockman Cheung's webpage! I am a first year UCLA math undergraduate. 
 
 Academic Focus
 ------
-I'm interested in general algebraic topology and algebraic geometry. It is really amazing to see how (co)homology comes up everywhere, from singular cohomology to sheaf cohomology, and to grid homology of knots. Currently, I am still a layman, reading through Ch.1,2 of Hatcher's Algebraic Topology. Let me know if you have anything AT/AG related you find interesting! <br> 
+I'm interested in learning homotopy theory (higher algebra), algebraic geometry, and various cohomology theories througout mathematics. In one year from now (i.e. by the end of sophmore year), I would like to see myself understanding the basics of those. <br> 
 
-To get started in what I am interested in right now, I suggest first getting a solid background in Algebra (below are the resources I used): <br>
+Great resources a first course in Modern Algebra <br>
 * Algebra, Artin <br>
 * <a href="https://canvas.ust.hk/courses/50980"> HKUST Math 5111 Notes </a> <br>
 * Algebra, Lang <br>
