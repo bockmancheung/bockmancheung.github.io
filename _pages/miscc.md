@@ -17,7 +17,7 @@ Friends
 
 Harmless funsies 
 ------
-### Translating EGA (to learn Math and French) <br>
+### Translating Grothendieck's EGA (to learn Math and French) <br>
 Sentences might be incomplete; my rule of translation here is to convey the mathematics most closely resembling the orignial version. The preservation of literary value comes closely after that. <br>
 
 #### 1.0. Rings and Algebras (05/09/2024) <br>
