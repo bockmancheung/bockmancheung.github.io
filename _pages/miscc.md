@@ -15,7 +15,7 @@ Friends
 * <a href= "https://teinc3.github.io/"> Ron Shum </a> <br>
 * <a href= "https://akselai.github.io/"> Hiu-Long Chan (Akselai) </a> <br>
 
-Funsies harmless to the world
+Harmless funsies 
 ------
 ### Translating EGA (to learn Math and French) <br>
 Sentences might be incomplete; my rule of translation here is to convey the mathematics most closely resembling the orignial version. Ofcourse, I will try to preserve its literary value too. <br>
