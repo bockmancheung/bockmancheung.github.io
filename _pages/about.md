@@ -14,6 +14,9 @@ Academic Focus
 ------
 I'm interested in learning homotopy theory, higher algebra, algebraic geometry, and various cohomology theories (e.g. group cohomology, grid cohomology) throughout mathematics. In one year from now (i.e. by the end of sophmore year), I would like to see myself understanding the basics of those. <br> 
 
+> Here's a phenomenon I was surprised to find: you'll go to talks, and hear various words, whose definitions you're not so sure about. At some point you'll be able to make a sentence using those words; you won't know what the words mean, but you'll know the sentence is correct. You'll also be able to ask a question using those words. You still won't know what the words mean, but you'll know the question is interesting, and you'll want to know the answer. Then later on, you'll learn what the words mean more precisely, and your sense of how they fit together will make that learning much easier. The reason for this phenomenon is that mathematics is so rich and infinite that it is impossible to learn it systematically, and if you wait to master one topic before moving on to the next, you'll never get anywhere. Instead, you'll have tendrils of knowledge extending far from your comfort zone. Then you can later backfill from these tendrils, and extend your comfort zone; this is much easier to do than learning "forwards". (Caution: this backfilling is necessary. There can be a temptation to learn lots of fancy words and to use them in fancy sentences without being able to say precisely what you mean. You should feel free to do that, but you should always feel a pang of guilt when you do.)
+- Ravi Vakil: On Seminars
+
 Great resources for a first course in Modern Algebra <br>
 * Algebra, Artin <br>
 * <a href="https://canvas.ust.hk/courses/50980"> HKUST Math 5111 Notes </a> <br>
