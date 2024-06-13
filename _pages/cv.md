@@ -18,11 +18,6 @@ Graduate Classes
 * Spring 2024:
   + 212A - Homological Algebra
   + 225C - Algebraic Topology
-
-* Audits:
-  + 235 - Topics in Manifold Theory: Grid Homology (Spring 2024)
-  + 246B - Complex Analysis (Winter 2024)
-  + 246A - Complex Analysis (Fall 2023)
     
 Publications
 ------
@@ -37,7 +32,9 @@ Experiences
 ------
 * Spring 2024, Assistant Instructor, UCLA Olga Radko Endowed Math Circle
 * Winter 2024, Direct Reading Program with Ben Spitz, Topic: The Grothendieck Group K_0
-
+* Grader: <br>
+  Math 115AH (Spring 2024) <br>
+  Math 131A (Summer 2024)
 
 Extracurriculars
 ------
