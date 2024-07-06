@@ -27,7 +27,7 @@ My inbox is always open to questions/information sharing.
 
 Making the Case for Pure Math
 ------
-There is a lot of problems in the world, and only 24 hours in a day. I often am led to answer the question of how to allocate my time. After seeing the failure of society and a quarter of struggling grades and relationships, I need to answer Hamlet's question: to be or not to be in pure math? I have been wrestling with the question for at least a year - perhaps this is the "only one really serious philosophical problem", as Camus will put it. 
+There is a lot of problems in the world, and only 24 hours in a day. I often am led to answer the question of how to allocate my time. After seeing the failure of society and struggling on grades and relationships last quarter, I need to answer Hamlet's question: to be or not to be in pure math? I have been wrestling with the question for at least a year - perhaps this is the "only one really serious philosophical problem", as Camus will put it. 
 
 I honestly really hate dealing with such problems. There are no answers, and one can only answer for themselves by weighing which factor matters more in their heart. But this weighing process is usually biased as one has only a partial view of themselves. This leads to anxiety in decision making. What if I \textit{missed} something important? The nature of this question forces one to take certain propositions on faith, like those axioms in math, as their guiding principles. 
 
