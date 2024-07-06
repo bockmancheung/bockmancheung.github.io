@@ -33,19 +33,19 @@ I honestly really hate dealing with such problems. There are no answers, and one
 
 Before I talk about those axioms, I would like to clarify my definition on the term "pure math", because I know there will be a lot of debate on the usage of the term. I agree that the term is somehow abused or contaminated, just like how an average American, raised under the indoctrination of an average school, would view "socialism" or "anarchism" negatively because they naturally associated them with disorder or anti-government - those criticisms cannot be taken quite seriously - and overlooked the organizing aspect of the theory. (I am an anarchist from the Chomsky tradition, if you are wondering.) Anyways, this is my definition of pure mathematics:
 
-> Pure math is the study of abstract mathematical objects that usually exists platonically, and does not have direct day-to-day applications in the forseeable future.
+* Pure math is the study of abstract mathematical objects that usually exists platonically, and does not have direct day-to-day applications in the forseeable future.
 
 Although I don't really like to see, and I think it is impossible, to see mathematics in a binary way as "pure" or "applied", I am not here to argue about this. This should be left for philosophical readers as an exercise. I am just going to drop my definition and go straight to my point. But I cannot stress enough that under my definition of pure mathematics, probably only very few subjects apply, such as Grothendieck's Algebraic Geometry or the Riemann Hypothesis. (Note that I chose the keywords very carefully: the emphasis is on the "abstract", "direct", "day-to-day", and "forseeable".)
 
 What are my principles in math at this point of life, as a 18-year-old averagely smart college student? I will try to argue myself to continue in doing math as below. The zeroth axiom - one that will never change regardless of age, is as below:
 
-> Axiom 0: Math is a fundamentally humanistic subject that serves to advance understanding and build a better world.
+* Axiom 0: Math is a fundamentally humanistic subject that serves to advance understanding and build a better world.
 
 We see mathematics exhibits humanity in a multitude of ways: math leads to the advancement of technology which, if theoretically well-employed, can be used to free people from working basic monotonic jobs. If mathematics leads to almost no applications at all or applications that will be useful very far ahead of future, one's usual argument is that we can do math for math's sake, and the inherent logic and beauty in such an organized human effort is itself appreciable in human nature. Last but not least, the tradition of mathematics teaching is very warm and welcoming that empowers students to not only to think rationally and criticially but also encourages them to identify the biases and prejudices in daily life judgement, expose structures in the world that cannot justify its existence, and tell the truth.
 
 However, all that being said, my next axiom, or rather observation, represents a slightly cynical view at this stage of humanity:
 
-> Axiom 1: Good societies are prone to corruption easily. Although many are doing good to the world, there is more power actively trying to ruin it.
+* Axiom 1: Good societies are prone to corruption easily. Although many are doing good to the world, there is more power actively trying to ruin it.
 
 As a remark, the reason I used "power" is that in today's America, or in most countries, most political power is concentrated in the hands of the wealthy or a small group of people. I have seen, especially in the protests this Spring, numerous unsung heroes that dedicate themselves to change, albeit the momentum is not strong enough that the struggle must still go on.
 
