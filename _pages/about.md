@@ -8,20 +8,24 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to Bockman Cheung's webpage! I am a first year UCLA math undergraduate. Outside of math, I try to participate in political activism, play the piano (I'm finding myself most appreciative of Bach and Beethoven, but I am recently going into modern music too), and write.
+Welcome to Bockman Cheung's webpage! I am a second year UCLA math undergraduate. 
 
 Academic Focus
 ------
-I'm interested in abstract nonsense. I would like to look into homotopy theory, algebraic geometry, and algebraic number theory. <br> 
+I'm interested in algebra and topology. Previously I was into homotopy theory, but upon reflection I'd say I'm still undecided.  <br> 
 
 > ... mathematics is so rich and infinite that it is impossible to learn it systematically, and if you wait to master one topic before moving on to the next, you'll never get anywhere. Instead, you'll have tendrils of knowledge extending far from your comfort zone. Then you can later backfill from these tendrils, and extend your comfort zone; this is much easier to do than learning "forwards". <br>
 Ravi Vakil: On Seminars
 
-Great resources for a first course in Modern Algebra <br>
+Great resources for first year Algebra <br>
 * Algebra, Artin <br>
 * <a href="https://canvas.ust.hk/courses/50980"> HKUST Math 5111 Notes </a> <br>
 * Algebra, Lang <br>
 * <a href="https://mathoverflow.net/a/70891/517395"> Resources on Category Theory </a>
 
-My inbox is always open to questions/information sharing.
-
+Hobbies/Committments outside of Math
+------
+* Political activism (Free Palestine!) and the cause of social justice
+* Bach and 20th century modernism piano pieces
+* Journalism, opinion columns
+* Development of Computer-assisted Proofs (Lean)
