@@ -6,9 +6,7 @@ author_profile: true
 ---
 ## Spring Quarter 2024
 ------
-### Math Wrap: 
-
-The following article is from my diary written at midnight on June 2nd. There are lots of overlapping on reflections on this spring quarter, so I decided I will keep that day's diary in its unedited form.  <br>
+### A Mathematician's Delight
 
 Today is one of the days I feel like I am a mathematician. I immersed myself from 9am to midnight in math without getting disturbed other than getting food, and when I realized it was late night, I actually felt slightly sad I was running out of time because I could go on for another 12 hours digging into papers and books and there were such an abundance of resources out there that I felt bad for not having enough time to go through all of them.
 
