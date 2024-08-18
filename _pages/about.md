@@ -12,7 +12,7 @@ Welcome to Bockman Cheung's webpage! I am a first year UCLA math undergraduate. 
 
 Academic Focus
 ------
-I'm interested in learning homotopy theory, higher algebra, algebraic geometry, and various cohomology theories (e.g. group cohomology, grid cohomology) throughout mathematics. In one year from now (i.e. by the end of sophmore year), I would like to see myself understanding the basics of those. <br> 
+I'm interested in abstract nonsense. I would like to look into homotopy theory, algebraic geometry, and algebraic number theory. <br> 
 
 > ... mathematics is so rich and infinite that it is impossible to learn it systematically, and if you wait to master one topic before moving on to the next, you'll never get anywhere. Instead, you'll have tendrils of knowledge extending far from your comfort zone. Then you can later backfill from these tendrils, and extend your comfort zone; this is much easier to do than learning "forwards". <br>
 Ravi Vakil: On Seminars
