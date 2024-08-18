@@ -30,4 +30,4 @@ Hobbies/Committments outside of Math
 * Development of Computer-assisted Proofs (Lean)
 * Journalism (Opinion Columns)
 * Middle-distance Running (around 10 km)
-* Learning how to trill my tongue for Español.
+* Learning how to trill my tongue for Español
