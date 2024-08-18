@@ -12,7 +12,7 @@ Welcome to Bockman Cheung's webpage! I am a second year UCLA math undergraduate.
 
 Academic Focus
 ------
-I'm interested in algebra and topology. Previously I was into homotopy theory, but upon reflection I'd say I'm still undecided.  <br> 
+I'm interested in algebra and topology. <br>
 
 > ... mathematics is so rich and infinite that it is impossible to learn it systematically, and if you wait to master one topic before moving on to the next, you'll never get anywhere. Instead, you'll have tendrils of knowledge extending far from your comfort zone. Then you can later backfill from these tendrils, and extend your comfort zone; this is much easier to do than learning "forwards". <br>
 Ravi Vakil: On Seminars
@@ -30,3 +30,4 @@ Hobbies/Committments outside of Math
 * Development of Computer-assisted Proofs (Lean)
 * Journalism (Opinion Columns)
 * Middle-distance Running (around 10 km)
+* Learning how to trill my tongue for Español.
