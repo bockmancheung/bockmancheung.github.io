@@ -27,5 +27,6 @@ Hobbies/Committments outside of Math
 ------
 * Political activism (Free Palestine!) and the cause of social justice
 * Bach and 20th century modernism piano pieces
-* Journalism, opinion columns
 * Development of Computer-assisted Proofs (Lean)
+* Journalism (Opinion Columns)
+* Middle-distance Running (around 10 km)
