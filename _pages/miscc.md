@@ -5,8 +5,6 @@ permalink: /miscc/
 author_profile: true
 ---
 
-<div class="aside">
-  
 Friends
 ------
 
