@@ -9,6 +9,7 @@ author_profile: true
   
 Friends
 ------
+
 * <a href="https://loganhyslop.github.io"> Logan Hyslop </a> <br>
 * <a href="https://benspitz.com/"> Ben Spitz </a> <br>
 * <a href="https://max.steinbergfour.com/"> Max Steinberg </a> <br>
