@@ -39,7 +39,7 @@ Extracurriculars
 ------
 * Fall 2023 - , Daily Bruin Opinion Columnist
 * Fall 2023 - , Bruin Chamber Musicians Member <br>
-* Spring 2024 - Cofounder of Hour Salon, club focusing on discussions of ``issues of importance", in our times.  (Spring 2024 - ) 
+* Spring 2024 - Cofounder of Hour Salon, club focusing on discussions of ``issues of importance" in our times. 
 
 Publications
 ------
