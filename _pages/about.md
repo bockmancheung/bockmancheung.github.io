@@ -34,7 +34,7 @@ Hobbies/Committments outside of Math
 ------
 * Political activism (Free Palestine!) and the cause of social justice
 * Bach and 20th century modernism piano pieces
-* Computer-assisted Proofs (Lean)
+* Literature: Reading Ulysses
 * Journalism (Opinion Columns)
 * Middle-distance Running (~10 km)
 * Learning how to trill my tongue for Español
