@@ -12,6 +12,7 @@ My Favorite <br>
 * Book: Victor Frankl's *Man's Search of Meaning*
 * Branch of Philosophy: Existentialism
 * Non-math subject: Music <br>
+* Non-math & music subject: Political Science <br>
 * Piece: Bach's *Goldberg Variations* <br>
 * Politician: Alexandria Ocasio-Cortez <br>
 * Professor: Alexander Murkerjev <br>
