@@ -14,7 +14,15 @@ Academic Focus
 ------
 My learning interest lies in algebraic topology, computer-assisted proofs (Lean), and algebraic number theory.  <br>
 
-Specifically, I have just taken a first course in algebraic topology and would like to pursue in the direction of cohomology and higher homotopy theory after I consolidate my foundations. In lean, I would like to learn type theory and achieve proficiency in the language so that I can do cool things like working out my algebra homework in the computer. In algebraic number theory, I am planning to look into the theory of local fields and p-adic numbers.
+Specifically, I have just taken a first course in algebraic topology and would like to pursue in the direction of cohomology and higher homotopy theory after I consolidate my foundations. In lean, I would like to learn type theory and achieve proficiency in the language so that I can do cool things like working out my algebra homework in the computer. In algebraic number theory, I am planning to look into the theory of local fields and p-adic numbers. <br>
+
+The following areas (ranked in no order of importance) are things I tangentially care about and might be of interest to me: <br>
+
+Algebraic Geometry <br>
+Cluster Algebra <br>
+Functional Analyais <br>
+Higher Algebra
+
 
 Great resources for first year Algebra <br>
 * Algebra, Artin <br>
