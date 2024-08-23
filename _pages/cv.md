@@ -21,6 +21,7 @@ Graduate Classes
 * Spring 2024:
   + 212A - Homological Algebra
   + 225C - Algebraic Topology
+  
 Talks
 ------
 * Apr 2024, <a href="https://drive.google.com/file/d/1wAyAC3rP6CKIGandTolA996sPIoZU-mb/view?usp=sharing"> *The Grothendieck Group K0: What is K-Theory?*, Winter 2024 DRP project presentation 
