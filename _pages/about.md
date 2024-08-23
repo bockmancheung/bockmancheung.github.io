@@ -18,10 +18,10 @@ Specifically, I have just taken a first course in algebraic topology and would l
 
 The following areas (ranked in no order of importance) are things I tangentially care about and might be of interest to me: <br>
 
-Algebraic Geometry <br>
-Cluster Algebra <br>
-Functional Analyais <br>
-Higher Algebra
+* Algebraic Geometry <br>
+* Cluster Algebra <br>
+* Functional Analyais <br>
+* Higher Algebra
 
 
 Great resources for first year Algebra <br>
