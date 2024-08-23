@@ -5,6 +5,19 @@ permalink: /miscc/
 author_profile: true
 ---
 
+Fun Facts
+------
+My Favorite <br>
+* Bands: Queen, REM <br>
+* Book: Victor Frankl's *Man's Search of Meaning*
+* Branch of Philosophy: Existentialism
+* Non-math subject: Music <br>
+* Piece: Bach's *Goldberg Variations* <br>
+* Politician: Alexandria Ocasio-Cortez <br>
+* Professor: Alexander Murkerjev <br>
+* Singer: Leslie Cheung 張國榮 <br>
+* Thinker: Noam Chomsky <br>
+
 Friends
 ------
 
