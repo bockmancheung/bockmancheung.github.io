@@ -9,7 +9,7 @@ Fun Facts
 ------
 My Favorite <br>
 * Bands: Queen, REM <br>
-* Book: Victor Frankl's *Man's Search of Meaning*
+* Book: Victor Frankl's *Man's Search for Meaning*
 * Branch of Philosophy: Existentialism
 * Non-math subject: Music <br>
 * Non-math & music subject: Political Science <br>
