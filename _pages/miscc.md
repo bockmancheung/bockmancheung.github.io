@@ -22,8 +22,10 @@ My Favorite <br>
 Friends
 ------
 
-* <a href="https://loganhyslop.github.io"> Logan Hyslop </a> <br>
 * <a href="https://benspitz.com/"> Ben Spitz </a> <br>
+* <a href="https://antoinedsg.com/"> Antoine de Saint Germain </a> <br>
+* <a href="https://www.math.cuhk.edu.hk/~ptchoi/"> Gary P.T. Choi </a> <br>
+* <a href="https://loganhyslop.github.io"> Logan Hyslop </a> <br>
 * <a href="https://max.steinbergfour.com/"> Max Steinberg </a> <br>
 * <a href="https://amgminequality.github.io/"> Eaton Liu </a> <br>
 * <a href= "https://akselai.github.io/"> Hiu-Long Chan (Akselai) </a> <br>
