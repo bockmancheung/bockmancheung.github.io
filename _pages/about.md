@@ -12,7 +12,7 @@ Welcome to Bockman Cheung's webpage! I am a second year UCLA math undergraduate.
 
 Academic Focus
 ------
-I am interested in learning algebra related fields, including but not limited to algebraic topology, algebraic geometry, lie groups, algebraic number theory, representation theory, and cluster algebra. Recently, I am into computer-assisted proofs too (Lean 4).
+I am interested in learning algebra related fields, including but not limited to algebraic topology, algebraic geometry, lie groups, algebraic number theory, representation theory, cluster algebra, and K-theory. Recently, I am into computer-assisted proofs too (Lean 4).
 
 
 Great resources for first year Algebra <br>
