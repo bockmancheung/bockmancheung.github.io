@@ -17,7 +17,7 @@ Graduate Classes
 ------
 * Fall 2024:
   + 210A - Graduate Algebra Part 1
-  + 225A/205A
+  + 225A - Smooth Manifolds
 * Spring 2024:
   + 212A - Homological Algebra
   + 225C - Algebraic Topology
