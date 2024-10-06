@@ -26,6 +26,6 @@ Hobbies/Committments outside of Math
 * Political activism (Free Palestine!) and the cause of social justice
 * Bach and 20th century modernism piano pieces
 * Literature: Reading Ulysses
-* Journalism (Opinion Columns)
+* Journalism: Daily Bruin 
 * Middle-distance Running (~10 km)
 * Learning how to trill my tongue for Español
