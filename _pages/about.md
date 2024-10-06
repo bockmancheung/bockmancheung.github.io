@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-ONE YEAR OF GENOCIDE.
+# ONE YEAR OF GENOCIDE.
 
 
 Welcome to Bockman Cheung's webpage! I am a second year UCLA math undergraduate. 
