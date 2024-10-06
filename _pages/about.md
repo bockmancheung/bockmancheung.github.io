@@ -1,12 +1,12 @@
 ---
 permalink: /
+title: "ONE YEAR OF GENOCIDE."
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-# ONE YEAR OF GENOCIDE.
 
 
 Welcome to Bockman Cheung's webpage! I am a second year UCLA math undergraduate. 
