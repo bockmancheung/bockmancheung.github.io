@@ -7,6 +7,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
+ONE YEAR OF GENOCIDE.
+
 
 Welcome to Bockman Cheung's webpage! I am a second year UCLA math undergraduate. 
 
@@ -21,7 +23,7 @@ Great resources for first year Algebra <br>
 * Algebra, Lang <br>
 * <a href="https://mathoverflow.net/a/70891/517395"> Resources on Category Theory </a>
 
-Hobbies/Committments outside of Math
+Hobbies
 ------
 * Political activism (Free Palestine!) and the cause of social justice
 * Bach and 20th century modernism piano pieces
