@@ -28,6 +28,6 @@ Hobbies
 * Political activism (Free Palestine!) and the cause of social justice
 * Bach and 20th century modernism piano pieces
 * Literature: Reading Ulysses
-* Journalism: Daily Bruin 
+* <a href="https://dailybruin.com/search?q=bockman+cheung"> Daily Bruin </a> 
 * Middle-distance Running (~10 km)
 * Learning how to trill my tongue for Español
