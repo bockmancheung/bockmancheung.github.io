@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "ONE YEAR OF GENOCIDE."
+title: "Bockman Cheung"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
