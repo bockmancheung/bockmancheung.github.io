@@ -15,18 +15,11 @@ Academic Focus
 ------
 I am interested in learning algebra related fields, including but not limited to algebraic topology, algebraic geometry, lie groups, algebraic number theory, representation theory, cluster algebra, and K-theory. Recently, I am into computer-assisted proofs too (Lean 4).
 
-
-Great resources for first year Algebra <br>
-* Algebra, Artin <br>
-* <a href="https://canvas.ust.hk/courses/50980"> HKUST Math 5111 Notes </a> <br>
-* Algebra, Lang <br>
-* <a href="https://mathoverflow.net/a/70891/517395"> Resources on Category Theory </a>
-
 Hobbies
 ------
-* Political activism (Free Palestine!) and the cause of social justice
+* Political activism and of social justice
 * Bach and 20th century modernism piano pieces
 * Literature: Reading Ulysses
 * <a href="https://dailybruin.com/author/bockman-cheung"> Daily Bruin </a> 
-* Middle-distance Running (~10 km)
-* Learning how to trill my tongue for Español
+* Middle-distance Running 
+* Language Learning: Espanol, French
