@@ -8,8 +8,8 @@ main:
 
   - title: "This Week's Finds"
     url: /math/
-  - title: "University Life"
-    url: /uni/
+ # - title: "University Life"
+  #  url: /uni/
     
   - title: "Miscellaneous"
     url: /miscc/
