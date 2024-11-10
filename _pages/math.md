@@ -2,10 +2,14 @@
  
 * Nilpotent Lie Algebras 
 
-I started falling in love with the expositions of the mastero Jean-Pierre Serre. His level of concision is unmatched, and reading it feels like him standing in front of me giving me a live lecture. And also he has so many relevant books that lies right on my interest: Lie Groups and Lie Algebras, A Course in Arithmetic, Local Fields, Galois Cohomology, and much more...
+I fell in love with the expositions of the mastero Jean-Pierre Serre. His level of concision is unmatched, and reading it feels like him standing in front of me giving me a live lecture. And also he has so many relevant books that lies right on my interest: Lie Groups and Lie Algebras, A Course in Arithmetic, Local Fields, Galois Cohomology, and much more...
 
 * Whitney's Embedding Theorem, Smooth Approximation Theorem
 * Hilbert's Theorem 90, Ring of Integers of Cyclotomic Fields
+
+Hilbert's Theorem 90 <br>
+
+Inspired by Zach Baguher's Graduate Student Seminar Talk, I 
 * Solving group theory problems on the Algebra Qual
 
 I learned a new trick in checking that a group is not simple. When we exhaust all information from Sylow Theorems, we can instead look at the normalizer <math display="block" xmlns="http://www.w3.org/1998/Math/MathML">
