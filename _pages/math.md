@@ -1,3 +1,9 @@
+---
+layout: archive
+title: "This Week's Find"
+permalink: /math/
+author_profile: true
+---
 ### 11/04/2024-11/10/2024, Fall 2024 Week 6
  
 * Universal Enveloping Algebras, Nilpotent Lie Algebras 
@@ -87,3 +93,4 @@ and then we can apply the second isomorphism theorem and Frattini's Argument to 
 My understanding in category theory had always been that of any pure mathematician outside of algebra-demanding fields like homotopy theory. I am familiar with common categorical constructs and definitions, and I speak the categorical language frequently, but I would never say that I am good at it. Reading the algebra class notes made me realize there were many constructs I didn't know. I learned about comma categories, universal objects, universal objects, and cleared up my confusion on subtle things as small as "should I call this right or left, over or under?". In future weeks, I hope to go over the last chapters of Riehl's Category Theory in Context and do tons of exercise, so I can become better in proving things in abstract nonsense style. <br>
 
 p.s. I will add references to books and papers I read later.
+p.s^2. Thanks to John Baez for inspiring me to start blogging.
