@@ -13,7 +13,7 @@ Welcome to Bockman Cheung's webpage! I am a second year UCLA math undergraduate.
 
 Academic Focus
 ------
-I am interested in algebra, geometry, and number theory. If I have to choose, the three most desirable subjects to me are lie groups and representation theory, algebraic topology, and algebraic number theory.
+I am interested in algebra, geometry, and number theory. If I have to choose, the three most desirable subjects to me are Lie groups and representation theory, algebraic topology, and algebraic number theory.
 
 Hobbies
 ------
