@@ -5,7 +5,9 @@ main:
 
   - title: "Classes"
     url: /classes/    
-    
+
+  - title: "This Week's Finds"
+    url: /math/
   - title: "University Life"
     url: /uni/
     
