@@ -25,8 +25,9 @@ Graduate Classes
   
 Talks
 ------
+* Dec 3 2024, Local Fields, Fall 2024 DRP colloquium
 * Aug 2024, <a href="https://drive.google.com/file/d/1xqLYO1zF9lZSg9CPBlEWK8CzvMNmkUjA/view?usp=sharing"> *Formalising frieze patterns in Lean 4* </a>, Summer Workshop on Lean 4 with Dr. Antoine de Saint Germain, Eaton Liu, Hiu-Long Chan, and Jon Cheah
-* Apr 2024, <a href="https://drive.google.com/file/d/1wAyAC3rP6CKIGandTolA996sPIoZU-mb/view?usp=sharing"> *The Grothendieck Group K0: What is K-Theory?* </a>, Winter 2024 DRP project presentation 
+* Apr 2024, <a href="https://drive.google.com/file/d/1wAyAC3rP6CKIGandTolA996sPIoZU-mb/view?usp=sharing"> *The Grothendieck Group K0: What is K-Theory?* </a>, Winter 2024 DRP colloquium 
 * Aug 2023, <a href="https://drive.google.com/file/d/11osYw7-6TlMaAoz0Ns-5TaqgeEsCY6in/view?usp=sharing"> *Basic Concepts in Catgeory Theory I* </a>, this is a talk summarizing what I learned in algebra from May 2023 to Aug 2023.
 
 Experiences
