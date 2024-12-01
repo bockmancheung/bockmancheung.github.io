@@ -31,7 +31,9 @@ Talks
 
 Experiences
 ------
-* Apr 2024,  Lean Aroof Assistant Workshop, run by Dr. Antoine de Saint Germain at HKU <br>
+* Fall 2024, Preliminary Arizona Winter School 2024 on Local Fields
+* Fall 2024, Direct Reading Program with Jacob Swenberg, Topic: Local Fields
+* Aug 2024,  Lean Aroof Assistant Workshop, run by Dr. Antoine de Saint Germain at HKU <br>
     Helped formalize Freize Patterns on Lean <br>
     <a href="https://arxiv.org/pdf/2407.16717"> Project Description </a>
 * Spring 2024, Assistant Instructor, UCLA Olga Radko Endowed Math Circle
