@@ -2,7 +2,7 @@
 layout: archive
 title: "This Week's Find"
 permalink: /math/
-author_profile: true
+author_profile: false
 ---
 ### 11/04/2024-11/10/2024, Fall 2024 Week 6
  
