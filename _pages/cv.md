@@ -32,7 +32,7 @@ Talks
 
 Expositions
 ------
-* <a href="https://drive.google.com/file/d/1omrAnoZkX8eseJCZUVPGVb3iFAxEthcw/view?usp=sharing"> Ado's Theorem </a>, Final Project for 229A Lie Groups and Lie Algebra.
+* <a href="https://drive.google.com/file/d/1omrAnoZkX8eseJCZUVPGVb3iFAxEthcw/view?usp=sharing"> Ado's Theorem</a>, Final Project for 229A Lie Groups and Lie Algebra.
 
 Publications
 ------
