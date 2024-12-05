@@ -6,8 +6,8 @@ main:
   - title: "Classes"
     url: /classes/    
 
-#  - title: "This Week's Find"
-#    url: /math/
+ - title: "This Week's Find"
+  url: /math/
   - title: "University Life"
    url: /uni/
     
