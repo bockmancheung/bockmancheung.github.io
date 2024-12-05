@@ -4,10 +4,8 @@ main:
     url: /cv/
 
   - title: "Classes"
-    url: /classes/    
-
- - title: "This Week's Find"
-  url: /math/
+    url: /classes/  
+  
   - title: "University Life"
    url: /uni/
     
