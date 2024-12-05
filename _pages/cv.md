@@ -30,6 +30,9 @@ Talks
 * Apr 2024, <a href="https://drive.google.com/file/d/1wAyAC3rP6CKIGandTolA996sPIoZU-mb/view?usp=sharing"> *The Grothendieck Group K0: What is K-Theory?* </a>, Winter 2024 DRP colloquium 
 * Aug 2023, <a href="https://drive.google.com/file/d/11osYw7-6TlMaAoz0Ns-5TaqgeEsCY6in/view?usp=sharing"> *Basic Concepts in Catgeory Theory I* </a>, this is a talk summarizing what I learned in algebra from May 2023 to Aug 2023.
 
+Writeups
+------
+* <a href="https://drive.google.com/file/d/1omrAnoZkX8eseJCZUVPGVb3iFAxEthcw/view?usp=sharing"> 229A Final Project </a>
 Experiences
 ------
 * Fall 2024, Preliminary Arizona Winter School 2024 on Local Fields
