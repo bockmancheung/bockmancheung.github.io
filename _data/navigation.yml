@@ -7,7 +7,7 @@ main:
     url: /classes/  
   
   - title: "University Life"
-   url: /uni/
+    url: /uni/
     
   - title: "Miscellaneous"
     url: /miscc/
