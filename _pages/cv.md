@@ -15,8 +15,12 @@ Education
   
 Graduate Classes 
 ------
+* Winter 2025:
+  + 210B - Algebra II
+  + 214A - Algebraic Geometry I
+  + 226A - Riemannian Geometry
 * Fall 2024:
-  + 210A - Algebra Part 1
+  + 210A - Algebra I
   + 225A - Smooth Manifolds
   + 229A - Lie Groups and Lie Algebra
 * Spring 2024:
