@@ -17,7 +17,7 @@ I'm interested in algebra, geometry, and number theory. The areas I'm looking in
 
 Hobbies
 ------
-* Political activism and social justice
+* Political Activism and Social Justice
 * Classical Piano: Bach, Romantic and (extremely) modern pieces
 * Literature: Ulysses, everything Shakespeare, Paradise Lost
 * <a href="https://dailybruin.com/author/bockman-cheung"> Daily Bruin </a> 
