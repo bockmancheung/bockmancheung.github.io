@@ -13,7 +13,7 @@ Welcome to Bockman Cheung's webpage! I am a second year UCLA math undergraduate.
 
 Academic Focus
 ------
-I'm interested in algebra, geometry, and number theory. The areas I'm looking into are Algebraic Geometry, Class Field theory, Riemannian Geometry, and proof formalization.
+I'm interested in Algebraic Geometry, Class Field theory, Riemannian Geometry, and proof formalization.
 
 Hobbies
 ------
