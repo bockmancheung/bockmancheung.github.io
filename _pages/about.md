@@ -13,7 +13,7 @@ Welcome to Bockman Cheung's webpage! I am a second year UCLA math undergraduate.
 
 Academic Focus
 ------
-I'm interested in Algebraic Geometry, Class Field Theory, Riemannian Geometry, and proof formalization. In pedestrian's terms, Algebraic Geometry studies solutions of systems of equations, Class Field Theory seeks to describe a class of "nice" (abelian Galois) extensions of fields, Riemannian Geometry is the generalization of Euclidean Geometry to e.g. spherical geometry, e.g. the Earth we live in, and proof formalization conerns verifying the correctness of proofs on a computer.
+I'm interested in Algebraic Geometry, Class Field Theory, Riemannian Geometry, and proof formalization. In pedestrian's terms, Algebraic Geometry studies solutions of systems of equations, Class Field Theory seeks to describe a class of "nice" (abelian Galois) extensions of fields, Riemannian Geometry is the generalization of Euclidean Geometry to e.g. spherical geometry (the Earth we live in!), and proof formalization conerns the verification of proofs through proof assistants.
 
 Hobbies
 ------
