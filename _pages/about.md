@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-Welcome to Bockman Cheung's webpage! I am a second year UCLA math and political science undergraduate. 
+Welcome to Bockman Cheung's webpage! I am a second year undergraduate at UCLA in math and political science.
 
 Academic Focus
 ------
