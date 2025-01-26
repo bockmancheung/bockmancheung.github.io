@@ -22,5 +22,5 @@ Hobbies
 * Literature: Ulysses, everything Shakespeare, Paradise Lost
 * <a href="https://dailybruin.com/author/bockman-cheung"> Daily Bruin </a> 
 * Middle-distance Running 
-* Language Learning: Espanol, Francis, Lingua Latina
+* Language Learning: Español, Français, Lingua Latina
 * Programming: C++, LEAN 4
