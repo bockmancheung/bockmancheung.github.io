@@ -21,6 +21,7 @@ Friends
 Fun Facts
 ------
 My Favorite <br>
+* Food: Al pastor buritto with EXCESS hot sauce #SpiceSolidarity
 * Bands: Queen, REM <br>
 * Book: Shakespeare The Complete Works (haha I cheated on this question)
 * Branch of Philosophy: Existentialism
