@@ -22,12 +22,11 @@ Fun Facts
 ------
 My Favorite <br>
 * Food: Al pastor buritto with EXCESS hot sauce #SpiceSolidarity
-* Bands: Queen, REM <br>
 * Book: Shakespeare The Complete Works (haha I cheated on this question)
 * Branch of Philosophy: Existentialism
 * Piece: Bach's *Goldberg Variations* <br>
 * Politician: Nobody <br>
-* Professor: Alexander Murkerjev <br>
+* Professor I know: Alexander Murkerjev <br>
 * Singer: Leslie Cheung 張國榮 <br>
-* Thinker: Noam Chomsky <br>
-
+* Activist: Noam Chomsky <br>
+* Bands: Queen, REM <br>
