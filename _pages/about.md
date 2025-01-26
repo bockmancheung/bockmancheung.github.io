@@ -17,7 +17,7 @@ I'm interested in Algebraic Geometry, Class Field Theory, Riemannian Geometry, a
 
 Hobbies
 ------
-* I'm on track to double major in Political Science. Political Activism and Social Justice is a big part of my life.
+* I'm on track to double major in Political Science. My interests are in political theory, in particular classical liberalism, socialism, and anarchism. Political Activism and Social Justice is a big part of my life.
 * Classical Piano: Bach, Romantic and (extremely) modern pieces
 * Literature: Ulysses, everything Shakespeare, Paradise Lost
 * <a href="https://dailybruin.com/author/bockman-cheung"> Daily Bruin </a> 
