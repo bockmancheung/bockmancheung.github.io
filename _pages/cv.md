@@ -15,6 +15,10 @@ Education
   
 Graduate Classes 
 ------
+* Spring 2025:
+  + 210C - Algebra III
+  + 214B - Algebraic Geometry II
+  + 197 - (tentative)
 * Winter 2025:
   + 210B - Algebra II
   + 214A - Algebraic Geometry I
