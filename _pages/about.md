@@ -24,3 +24,12 @@ Hobbies
 * Middle-distance Running 
 * Language Learning: Español, Français, Lingua Latina
 * Programming: C++, LEAN 4
+
+Fun classes I've taken here
+------
+* MUS 20A Music Theory I
+* MUS 30B Piano Literature: Romantic era and beyond
+* Eng 90 Shakespeare
+* JAPAN 70 Anime
+* French 1
+
