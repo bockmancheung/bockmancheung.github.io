@@ -13,17 +13,16 @@ Welcome to Bockman Cheung's webpage! I am a second year undergraduate at UCLA in
 
 Academic Focus
 ------
-I'm interested in Algebraic Geometry, Class Field Theory, Riemannian Geometry, and proof formalization. In pedestrian's terms, Algebraic Geometry studies solutions of systems of equations, Class Field Theory seeks to describe a class of "nice" (abelian Galois) extensions of fields, Riemannian Geometry is the generalization of Euclidean Geometry to e.g. spherical geometry (the Earth we live in!), and proof formalization conerns the verification of proofs through proof assistants.
+I'm interested in Algebraic Geometry, Class Field Theory, and Riemannian Geometry. In pedestrian's terms, Algebraic Geometry studies solutions of systems of equations, Class Field Theory seeks to describe a class of "nice" (abelian Galois) extensions of fields, Riemannian Geometry is the most generalized version of Euclidean Geometry to e.g. spherical geometry (the Earth we live in!).
 
 Hobbies
 ------
 * Political theories, in particular classical liberalism, socialism, and anarchism. Political Activism and Social Justice is a big part of my life.
 * Classical Piano: Bach, Romantic and (extremely) modern pieces
-* Literature: Ulysses, everything Shakespeare, Paradise Lost
+* Literature: Shakespeare (9/38 plays completed!), Milton (Paradise Lost), Joyce (Ulysses), and poetry in general.
 * <a href="https://dailybruin.com/author/bockman-cheung"> Daily Bruin </a> 
 * Middle-distance Running 
 * Language Learning: Español, Français, Lingua Latina
-* Programming: C++, LEAN 4
 
 Fun classes I've taken here
 ------
