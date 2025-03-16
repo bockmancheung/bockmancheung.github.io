@@ -13,7 +13,9 @@ Welcome to Bockman Cheung's webpage! I am a second year undergraduate at UCLA in
 
 Academic Focus
 ------
-I'm interested in Algebraic Geometry, Class Field Theory, and Riemannian Geometry. In pedestrian's terms, Algebraic Geometry studies solutions of systems of equations, Class Field Theory seeks to describe a class of "nice" (abelian Galois) extensions of fields, Riemannian Geometry is the most generalized version of Euclidean Geometry to e.g. spherical geometry (the Earth we live in!).
+I'm interested in Algebraic Geometry, Class Field Theory, and Riemannian Geometry. 
+
+In pedestrian's terms, Algebraic Geometry studies solutions of systems of equations, Class Field Theory seeks to describe a class of "nice" (abelian Galois) extensions of fields, Riemannian Geometry is the most generalized version of Euclidean Geometry to e.g. spherical geometry (the Earth we live in!).
 
 Tangentially interested: Algebraic Topology, Lie Theory, Representation Theory, Complex Geometry.
 
