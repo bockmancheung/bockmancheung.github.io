@@ -22,8 +22,8 @@ Tangentially interested: Algebraic Topology, Lie Theory, Representation Theory, 
 Hobbies
 ------
 * Political theories, in particular classical liberalism, socialism, and anarchism. Political Activism and Social Justice is a big part of my life.
-* Classical Piano: Bach, Romantic and (extremely) modern pieces
-* Literature: Shakespeare (9/38 plays completed!), Milton (Paradise Lost), Joyce (Ulysses), and poetry in general.
+* Classical Piano: Bach's Goldberg Variations, Chopin's Ballade No.4, and anything Bach/Romantic/Modern/Extremely modern.
+* Literature: Shakespeare (9/38 plays completed!), Milton (Paradise Lost), Joyce (Ulysses), and all kinds of poetry.
 * <a href="https://dailybruin.com/author/bockman-cheung"> Daily Bruin </a> 
 * Middle-distance Running 
 * Language Learning: Español, Français, Lingua Latina
