@@ -15,6 +15,8 @@ Academic Focus
 ------
 I'm interested in Algebraic Geometry, Class Field Theory, and Riemannian Geometry. In pedestrian's terms, Algebraic Geometry studies solutions of systems of equations, Class Field Theory seeks to describe a class of "nice" (abelian Galois) extensions of fields, Riemannian Geometry is the most generalized version of Euclidean Geometry to e.g. spherical geometry (the Earth we live in!).
 
+Other areas I have had a peek into: Algebraic Topology, Lie Theory, Representation Theory, Complex Geometry.
+
 Hobbies
 ------
 * Political theories, in particular classical liberalism, socialism, and anarchism. Political Activism and Social Justice is a big part of my life.
