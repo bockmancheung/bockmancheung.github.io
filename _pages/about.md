@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-Welcome to Bockman Cheung's webpage! I am a second year undergraduate at UCLA in math. 
+Welcome to Bockman Cheung's homepage! I'm an aspiring mathematician and a second year math undergraduate at UCLA. 
 
 Academic Focus
 ------
@@ -21,13 +21,13 @@ Tangentially interested: Algebraic Topology, Lie Theory, Representation Theory, 
 
 Hobbies
 ------
-* Political theories, in particular classical liberalism, socialism, and anarchism. Political Activism and Social Justice is a big part of my life.
 * Classical Piano: Bach's Goldberg Variations, Chopin's Ballade No.4, and anything Bach/Romantic/Modern/Extremely modern.
 * Literature: Shakespeare (10/38 plays down), Milton (Paradise Lost), Joyce (Ulysses), and all kinds of poetry.
 * <a href="https://dailybruin.com/author/bockman-cheung"> Daily Bruin </a> 
 * Middle-distance Running 
 * Language Learning: Español, Français, Lingua Latina
-* Theatre (new!)
+* Anarchism, Socialism, Political Activism and Social Justice.
+* Theatre (New!)
   
 Fun classes I've taken here
 ------
