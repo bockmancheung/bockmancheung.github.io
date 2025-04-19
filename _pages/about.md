@@ -19,21 +19,22 @@ In pedestrian's terms, Algebraic Geometry studies solutions of systems of equati
 
 Tangentially interested: Algebraic Topology, Lie Theory, Representation Theory, Complex Geometry.
 
-Hobbies
+Hobbies (In no order)
 ------
 * Classical Piano: Bach's Goldberg Variations, Chopin's Ballade No.4, and anything Bach/Romantic/Modern/Extremely modern.
 * Literature: Shakespeare (10/38 plays down), Milton (Paradise Lost), Joyce (Ulysses), and all kinds of poetry.
 * <a href="https://dailybruin.com/author/bockman-cheung"> Daily Bruin </a> 
 * Middle-distance Running 
-* Language Learning: Español, Français, Lingua Latina
+* Language Learning: Français, Español, Lingua Latina
 * Anarchism, Socialism, Political Activism and Social Justice.
-* Theatre (New!)
+* Theater
+* Football (a.k.a. soccer), Hiking, Backpacking
   
 Fun classes I've taken here
 ------
 * MUS 20A Music Theory I
 * MUS 30B Piano Literature: Romantic era and beyond
-* Eng 90 Shakespeare
+* ENG 90 Shakespeare
 * JAPAN 70 Anime
-* French 1
+* FRENCH 1
 
