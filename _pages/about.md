@@ -35,4 +35,4 @@ Fun classes I've taken here
 * ENG 90 Shakespeare
 * JAPAN 70 Anime
 * FRENCH 1
-
+* ENG 168 American Literature
