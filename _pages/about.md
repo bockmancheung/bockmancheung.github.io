@@ -13,11 +13,9 @@ Welcome to Bockman Cheung's homepage! I'm an aspiring mathematician and a second
 
 Academic Focus
 ------
-I'm interested in Algebraic Geometry and its applications, Algebraic Number Theory, and Riemannian Geometry. 
+I am learning passionately about Algebraic Geometry and its applications, Algebraic Number Theory, and Riemannian Geometry. 
 
 In pedestrian's terms, Algebraic Geometry studies solutions of systems of equations, Algebraic Number Theory uses sophisicated algebraic tools to answer simple questions, Riemannian Geometry generalizes Euclidean Geometry to e.g. spherical geometry (the Earth we live in!).
-
-Tangentially interested: Algebraic Topology, Lie Theory, Representation Theory, Complex Geometry.
 
 Hobbies
 ------
