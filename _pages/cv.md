@@ -15,6 +15,8 @@ Education
   
 Graduate Classes 
 ------
+* Summer 2025:
+  + 197 - Complex Geometry (tentative)
 * Spring 2025:
   + 210C - Algebra III
   + 214B - Algebraic Geometry II
