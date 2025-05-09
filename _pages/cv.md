@@ -15,8 +15,6 @@ Education
   
 Graduate Classes 
 ------
-* Summer 2025:
-  + 197 - Complex Geometry (tentative)
 * Spring 2025:
   + 210C - Algebra III
   + 214B - Algebraic Geometry II
@@ -51,6 +49,7 @@ Publications
 
 Experiences
 ------
+* Spring 2025, Reading Group on Elliptic Curves, lead by Brian Shin.
 * Fall 2024, Preliminary Arizona Winter School 2024 on Local Fields
 * Fall 2024, Direct Reading Program with Jacob Swenberg, Topic: Local Fields
 * Aug 2024,  Lean Aroof Assistant Workshop, run by Dr. Antoine de Saint Germain at HKU <br>
