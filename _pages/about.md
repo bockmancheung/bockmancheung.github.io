@@ -26,11 +26,10 @@ Hobbies
 * Theater
 * Football (a.k.a. soccer), Hiking, Backpacking
   
-Fun classes I've taken here
+Fun classes
 ------
 * MUS 20A Music Theory I
 * MUS 30B Piano Literature: Romantic era and beyond
 * ENG 90 Shakespeare
 * JAPAN 70 Anime
 * FRENCH 1
-* ENG 168 American Literature
