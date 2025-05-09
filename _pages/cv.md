@@ -38,6 +38,10 @@ Talks
 * Apr 2024, <a href="https://drive.google.com/file/d/1wAyAC3rP6CKIGandTolA996sPIoZU-mb/view?usp=sharing"> *The Grothendieck Group K0: What is K-Theory?* </a>, Winter 2024 DRP colloquium 
 * Aug 2023, <a href="https://drive.google.com/file/d/11osYw7-6TlMaAoz0Ns-5TaqgeEsCY6in/view?usp=sharing"> *Basic Concepts in Catgeory Theory I* </a>, this is a talk summarizing what I learned in algebra from May 2023 to Aug 2023.
 
+Travels
+------
+* June 2-6, Undergraduate Workshop in Topology and Algebraic Geometry, University of Notre Dame, Indiana.
+  
 Expositions
 ------
 * <a href="https://drive.google.com/file/d/1omrAnoZkX8eseJCZUVPGVb3iFAxEthcw/view?usp=sharing"> *Ado's Theorem*</a>, Final Project for 229A Lie Groups and Lie Algebra.
@@ -45,7 +49,6 @@ Expositions
 Publications
 ------
 * Dec 2022, <a href="https://drive.google.com/file/d/1XE6-QVYHrVWyFg-2u4yom5OPNqoixJw_/view?usp=sharing"> *On the Coprime Product Series and Its Divergence and Bounds* </a>, winner of the 2022-2023 S.T. Yau High School Science Award (Asia) (Champion) and global finals (Bronze).
-
 
 Experiences
 ------
@@ -61,10 +64,16 @@ Experiences
 * Grader: <br>
   Math 115AH (Spring 2024)
 
+
+Publications
+------
+* Dec 2022, <a href="https://drive.google.com/file/d/1XE6-QVYHrVWyFg-2u4yom5OPNqoixJw_/view?usp=sharing"> *On the Coprime Product Series and Its Divergence and Bounds* </a>, winner of the 2022-2023 S.T. Yau High School Science Award (Asia) (Champion) and global finals (Bronze).
+
 Extracurriculars
 ------
 * Fall 2023 - , Daily Bruin Opinion Columnist
 * Fall 2023 - , Bruin Chamber Musicians Member <br>
 * Spring 2024 - Cofounder of Hour Salon, club focusing on discussions of ``issues of importance" in our times. 
-
+* 2024-2025 - Member of BruinRunners, a mid-distance recreation club.
+* Spriing 2025 - Actor at Shakespeare Company at UCLA, featuring in the comedy Twelfth Night.
 Full academic CV in PDF is available upon request.
