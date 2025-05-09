@@ -49,7 +49,8 @@ Publications
 
 Experiences
 ------
-* Spring 2025, Reading Group on Elliptic Curves, lead by Brian Shin.
+* Spring 2025, Reading Group on Elliptic Curves, lead by Brian Shin
+* Spring 2025, Participation in the Algebra Seminar on Geometric Invariant Theory
 * Fall 2024, Preliminary Arizona Winter School 2024 on Local Fields
 * Fall 2024, Direct Reading Program with Jacob Swenberg, Topic: Local Fields
 * Aug 2024,  Lean Aroof Assistant Workshop, run by Dr. Antoine de Saint Germain at HKU <br>
