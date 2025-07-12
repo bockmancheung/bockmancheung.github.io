@@ -15,21 +15,14 @@ Academic Focus
 ------
 I am learning passionately about Algebraic Geometry and its applications in Representation Theory, Class Field Theory and Riemannian Geometry.
 
-Hobbies
+J'aime...
 ------
-* Classical Piano: Bach's Goldberg Variations, Chopin's Ballade No.4, and anything Bach/Romantic/Modern/Extremely modern
+* Piano, classical and a teeny tiny bit of jazz
 * <a href="https://dailybruin.com/author/bockman-cheung"> Daily Bruin </a>
-* Language Learning: Français, Español, Lingua Latina
-* Literature: Shakespeare (10/38 plays down), Milton (Paradise Lost), Joyce (Ulysses), and all kinds of poetry
-* Middle-distance Running 
-* Political Activism and Social Justice.
-* Theater
-* Football (a.k.a. soccer), Hiking, Backpacking
-  
-Fun classes
-------
-* MUS 20A Music Theory I
-* MUS 30B Piano Literature: Romantic era and beyond
-* ENG 90 Shakespeare
-* JAPAN 70 Anime
-* FRENCH 1
+* Language Learning: Français, Español, Latin
+* Literature: Shakespeare (halfway through reading all plays), Milton (Paradise Lost), Joyce, poetry
+* Running (PR: 23 min/5K, 1\:56\:00/semi-marathon) 
+* Political Activism
+* Going to theater, musicals, concerts
+* Football (or soccer), Hiking, Backpacking
+* Trading stocks, crypto
