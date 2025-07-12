@@ -20,7 +20,7 @@ J'aime...
 * Piano, classical and a teeny tiny bit of jazz
 * <a href="https://dailybruin.com/author/bockman-cheung"> Daily Bruin </a>
 * Language Learning: Français, Español, Latin
-* Literature: Shakespeare (halfway through reading all plays), Milton (Paradise Lost), Joyce, poetry
+* Literature: Shakespeare (halfway through reading all plays), Milton (Paradise Lost), Joyce, poetry (I'm a romantic)
 * Running (PR: ~24\:00/5K, 1\:56\:00/semi-marathon) 
 * Political Activism
 * Going to theater, musicals, concerts
