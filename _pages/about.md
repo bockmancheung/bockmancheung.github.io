@@ -24,5 +24,5 @@ J'aime...
 * Running (PR: ~24\:00/5K, 1\:56\:00/semi-marathon) 
 * Political Activism
 * Going to theater, musicals, concerts
-* Football (or soccer), Hiking, Backpacking
+* Playing football (or soccer), Hiking, Backpacking
 * Trading stocks, crypto
