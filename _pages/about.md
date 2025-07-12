@@ -21,7 +21,7 @@ J'aime...
 * <a href="https://dailybruin.com/author/bockman-cheung"> Daily Bruin </a>
 * Language Learning: Français, Español, Latin
 * Literature: Shakespeare (halfway through reading all plays), Milton (Paradise Lost), Joyce, poetry
-* Running (PR: 23 min/5K, 1\:56\:00/semi-marathon) 
+* Running (PR: ~24\:00/5K, 1\:56\:00/semi-marathon) 
 * Political Activism
 * Going to theater, musicals, concerts
 * Football (or soccer), Hiking, Backpacking
