@@ -4,6 +4,8 @@ title: "My UCLA life"
 permalink: /uni/
 author_profile: true
 ---
+## 2025 Update: Reflections on my mathematical learning
+
 ## Spring Quarter 2024
 ------
 ### A Mathematician's Delight
