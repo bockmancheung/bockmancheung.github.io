@@ -15,6 +15,10 @@ Education
   
 Graduate Classes 
 ------
+* Fall 2026:
+  + 205A - Algebraic Number Theory I: Elliptic Curves
+  + 245A - Real Analysis I
+  + 251A - Partial Differential Equations 
 * Spring 2025:
   + 210C - Algebra III
   + 214B - Algebraic Geometry II
