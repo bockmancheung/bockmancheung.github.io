@@ -13,9 +13,9 @@ Welcome to Bockman Cheung's homepage! I'm an aspiring mathematician and a third 
 
 Academic Focus
 ------
-I am learning passionately about Algebraic Geometry and its applications in Representation Theory, Algebraic Number Theory, and Riemannian Geometry.
+I'm learning passionately about Algebraic Geometry and its applications in Representation Theory, Algebraic Number Theory, and Riemannian Geometry. 
 
-J'aime...
+J'aime bien...
 ------
 * Piano, classical and a teeny tiny bit of jazz
 * <a href="https://dailybruin.com/author/bockman-cheung"> Daily Bruin </a>
