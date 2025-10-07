@@ -9,11 +9,11 @@ redirect_from:
 ---
 
 
-Welcome to Bockman Cheung's homepage! I'm an aspiring mathematician and a second year math undergraduate at UCLA. 
+Welcome to Bockman Cheung's homepage! I'm an aspiring mathematician and a third year math undergraduate at UCLA. 
 
 Academic Focus
 ------
-I am learning passionately about Algebraic Geometry and its applications in Representation Theory, Class Field Theory and Riemannian Geometry.
+I am learning passionately about Algebraic Geometry and its applications in Representation Theory, Algebraic Number Theory, and Riemannian Geometry.
 
 J'aime...
 ------
