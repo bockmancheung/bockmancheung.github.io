@@ -13,7 +13,7 @@ Welcome to Bockman Cheung's homepage! I'm an aspiring mathematician and a third 
 
 Academic Focus
 ------
-I like to learn about Algebraic Geometry and Analysis, and their applications in a range of topics such as Number Theory, Geometry, and Representation Theory. 
+I'm learning about Algebraic Geometry and Analysis, and their applications in a range of topics in Algebraic Number Theory, Geometry, and Representation Theory. 
 
 What I like to do
 ------
