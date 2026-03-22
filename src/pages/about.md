@@ -14,6 +14,6 @@ In math, I grapple with the question of what I should take interest in, for any 
 
 Coming to early adulthood, I realize life also is about finding my own voice and deciding what makes me happy. 
 
-I strive to be a human in this grand uphill of life. To experience the bliss of relationships and friends. To exercise my values. To pursue knowledge and wisdom. To be in communion with nature.
+I strive to be a human in this grand uphill of life. To experience the joy of bonding with others. To exercise my values. To pursue knowledge and wisdom. To be in communion with nature.
 
 This blog is thus about what I find colorful, unapologetic, and meaningful that defends, demonstrates, and glorifies my humanity.
