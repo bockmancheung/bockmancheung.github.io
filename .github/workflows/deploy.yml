@@ -2,7 +2,7 @@ name: Deploy to GitHub Pages
 
 on:
   push:
-    branches: [main] # Only deploy when you push to the main branch
+    branches: [main]
 
 permissions:
   contents: read
@@ -19,12 +19,24 @@ jobs:
       - name: Install pnpm
         uses: pnpm/action-setup@v4
         with:
-          version: 10.11.1
+          version: 10.11.1 # This solves the "No pnpm version" error
 
-      - name: Install, build, and upload
-        uses: withastro/action@v2
+      - name: Set up Node
+        uses: actions/setup-node@v4
         with:
-          pnpm-version: 10.11.1 # Ensures it uses your specific pnpm version
+          node-version: 20
+          cache: 'pnpm'
+
+      - name: Install dependencies
+        run: pnpm install
+
+      - name: Build project
+        run: pnpm run build
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: ./dist # Astro builds to the 'dist' folder by default
 
   deploy:
     needs: build
