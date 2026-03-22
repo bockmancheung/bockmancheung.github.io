@@ -2,7 +2,7 @@ export const SITE = {
   website: "https://bockmancheung.github.io", // replace this with your deployed domain
   author: "Bockman Cheung",
   profile: "https://bockmancheung.github.io",
-  // desc: "",
+  desc: "Math & Life",
   title: "Bockman Cheung",
   ogImage: "astropaper-og.jpg",
   lightAndDarkMode: true,
