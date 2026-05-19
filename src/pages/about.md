@@ -1,4 +1,4 @@
 ---
 layout: ../layouts/AboutLayout.astro
-title: "About"
+title: "CV"
 ---
