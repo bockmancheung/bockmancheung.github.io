@@ -12,28 +12,26 @@ const sortedPosts = getSortedPosts(posts);
 <Layout>
   <Header />
   <main id="main-content" data-layout="index" class="app-layout">
-    <section id="hero" class="pt-8 pb-6 border-b border-border">
-      <div class="flex justify-between items-start">
-        <h1 class="my-4 inline-block text-4xl font-bold sm:my-8 sm:text-5xl">
-          Bockman Cheung
-        </h1>
-        <a
-          target="_blank"
-          href="/rss.xml"
-          class="inline-block mt-8 sm:mt-12"
-          aria-label="rss feed"
-          title="RSS Feed"
-        >
-          <IconRss
-            width={28}
-            height={28}
-            class="scale-125 stroke-accent stroke-2 rtl:-rotate-90"
-          />
-          <span class="sr-only">RSS Feed</span>
-        </a>
-      </div>
+    <section id="hero" class:list={["pt-8 pb-6", "border-b border-border"]}>
+      <h1 class="my-4 inline-block text-4xl font-bold sm:my-8 sm:text-5xl">
+        Bockman Cheung
+      </h1>
+      <a
+        target="_blank"
+        href="/rss.xml"
+        class="inline-block"
+        aria-label="rss feed"
+        title="RSS Feed"
+      >
+        <IconRss
+          width={20}
+          height={20}
+          class="scale-125 stroke-accent stroke-3 rtl:-rotate-90"
+        />
+        <span class="sr-only">RSS Feed</span>
+      </a>
 
-      <p class="mb-6 font-medium text-lg">My Academic Homepage</p>
+      <p class="mb-6">My Academic Homepage</p>
 
       <p class="mb-6">
         I'm a junior undergraduate at UCLA in the department of mathematics, 
@@ -49,9 +47,9 @@ const sortedPosts = getSortedPosts(posts);
         <h2 class="text-lg font-semibold mb-3">Upcoming travels (2026):</h2>
         <ul class="list-disc list-inside space-y-1">
           <li><strong>June 16-20:</strong> 43rd Annual Workshop in Geometric Topology, Salt Lake City, UT</li>
-          <li><strong>Aug 16 - Sept 10:</strong> Montréal, QB, Canada</li>
-          <li><strong>Sept 10-17:</strong> Boston, MA</li>
-          <li><strong>Sept 17-23:</strong> Toronto, OT, Canada</li>
+          <li><strong>August 16-September 10:</strong> Montréal, QB, Canada</li>
+          <li><strong>September 10-17:</strong> Boston, MA</li>
+          <li><strong>September 17-23:</strong> Toronto, OT, Canada</li>
         </ul>
       </div>
     </section>
