@@ -1,54 +1,34 @@
----
-import { getCollection } from "astro:content";
-import Layout from "@/layouts/Layout.astro";
-import Header from "@/components/Header.astro";
-import Footer from "@/components/Footer.astro";
-import Socials from "@/components/Socials.astro";
-import LinkButton from "@/components/LinkButton.astro";
-import Card from "@/components/Card.astro";
-import getSortedPosts from "@/utils/getSortedPosts";
-import IconRss from "@/assets/icons/IconRss.svg";
-import IconArrowRight from "@/assets/icons/IconArrowRight.svg";
-import { SITE } from "@/config";
-import { SOCIALS } from "@/constants";
+<section id="hero" class="pt-8 pb-6 border-b border-border">
+  <div class="flex justify-between items-center mb-6">
+    <h1 class="text-4xl font-bold sm:text-5xl">Bockman Cheung</h1>
+    <a target="_blank" href="/rss.xml" aria-label="rss feed" title="RSS Feed">
+      <IconRss width={28} height={28} class="stroke-accent stroke-2" />
+    </a>
+  </div>
 
-const posts = await getCollection("blog");
+  <div class="prose dark:prose-invert max-w-none">
+    <p class="text-lg font-medium text-accent">Academic Homepage</p>
+    
+    <p>
+      I am a junior undergraduate at UCLA in the Department of Mathematics. 
+      My research interests are broadly in <strong>algebraic geometry</strong> 
+      and its applications, including cluster algebras and representation theory. 
+      I am also passionate about advancing human-machine interactions to push 
+      the frontiers of mathematical research.
+    </p>
 
-const sortedPosts = getSortedPosts(posts);
-const featuredPosts = sortedPosts.filter(({ data }) => data.featured);
-const recentPosts = sortedPosts.filter(({ data }) => !data.featured);
----
+    <p>Contact: <code>bm[last-name]@ucla.edu</code></p>
+  </div>
 
-<Layout>
-  <Header />
-  <main id="main-content" data-layout="index" class="app-layout">
-    <section id="hero" class:list={["pt-8 pb-6", "border-b border-border"]}>
-      <h1 class="my-4 inline-block text-4xl font-bold sm:my-8 sm:text-5xl">
-        Bockman Cheung
-      </h1>
-      <a
-        target="_blank"
-        href="/rss.xml"
-        class="inline-block"
-        aria-label="rss feed"
-        title="RSS Feed"
-      >
-        <IconRss
-          width={20}
-          height={20}
-          class="scale-125 stroke-accent stroke-3 rtl:-rotate-90"
-        />
-        <span class="sr-only">RSS Feed</span>
-      </a>
-
-     
-<p class="mb-6"> My Academic Homepage </p>
-
-<p class="mb-6"> I'm a junior undergraduate at UCLA in the department of mathematics, broadly interested in algebraic geometry and its applications, for example cluster algebras and representation theory. I am also eagerly interested in advancing human-machine interactions to push the frontiers of mathematical research.</p>
-
-My email address is bm(last name)@ucla.edu.
-
-        
-    </section>
+  <div class="mt-8">
+    <h2 class="text-xl font-semibold mb-3">Upcoming Travels (2026)</h2>
+    <ul class="list-disc list-inside space-y-1">
+      <li><strong>June 16–20:</strong> 43rd Annual Workshop in Geometric Topology, Salt Lake City, UT</li>
+      <li><strong>Aug 16 – Sept 10:</strong> Montréal, QC, Canada</li>
+      <li><strong>Sept 10–17:</strong> Boston, MA</li>
+      <li><strong>Sept 17–23:</strong> Toronto, ON, Canada</li>
+    </ul>
+  </div>
+</section>
 
   
