@@ -4,7 +4,7 @@ pubDatetime: 2022-12-01T00:00:00Z
 draft: false
 tags:
   - number theory
-  - competition math
+  - analytic number theory
 description: Gold (Asia) and Bronze (Global), S.T. Yau High School Science Award, December 2022.
 ---
 
