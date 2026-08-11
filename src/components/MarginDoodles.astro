@@ -1,0 +1,79 @@
+---
+// Decorative line-art doodles in the page margins, visible only when there's
+// enough gutter space (xl+) so they never compete with the actual content.
+const doodleClass =
+  "pointer-events-none fixed z-0 hidden text-foreground/10 xl:block";
+---
+
+<div aria-hidden="true">
+  <!-- torus -->
+  <svg
+    class={`${doodleClass} left-6 top-28`}
+    width="72"
+    height="72"
+    viewBox="0 0 100 100"
+    fill="none"
+    stroke="currentColor"
+    stroke-width="1.5"
+  >
+    <ellipse cx="50" cy="50" rx="45" ry="26" />
+    <ellipse cx="50" cy="50" rx="18" ry="10" />
+    <path d="M 5 50 Q 50 72 95 50" />
+    <path d="M 5 50 Q 50 28 95 50" opacity="0.5" />
+  </svg>
+
+  <!-- quaternion units: i, j, k cyclic triangle -->
+  <svg
+    class={`${doodleClass} left-10`}
+    style="top: 62vh;"
+    width="64"
+    height="64"
+    viewBox="0 0 100 100"
+    fill="none"
+    stroke="currentColor"
+    stroke-width="1.5"
+  >
+    <circle cx="50" cy="15" r="3" fill="currentColor" stroke="none" />
+    <circle cx="12" cy="80" r="3" fill="currentColor" stroke="none" />
+    <circle cx="88" cy="80" r="3" fill="currentColor" stroke="none" />
+    <path d="M 50 20 L 85 76" marker-end="url(#arrow)" />
+    <path d="M 82 80 L 17 80" marker-end="url(#arrow)" />
+    <path d="M 15 76 L 47 20" marker-end="url(#arrow)" />
+    <text x="50" y="10" font-size="9" fill="currentColor" stroke="none" text-anchor="middle">i</text>
+    <text x="6" y="84" font-size="9" fill="currentColor" stroke="none">j</text>
+    <text x="92" y="84" font-size="9" fill="currentColor" stroke="none">k</text>
+  </svg>
+
+  <!-- elliptic curve: y^2 = x^3 - x -->
+  <svg
+    class={`${doodleClass} right-6 top-40`}
+    width="80"
+    height="72"
+    viewBox="0 0 120 100"
+    fill="none"
+    stroke="currentColor"
+    stroke-width="1.5"
+  >
+    <line x1="0" y1="50" x2="120" y2="50" opacity="0.35" />
+    <line x1="30" y1="0" x2="30" y2="100" opacity="0.35" />
+    <path d="M 20 88 C 40 60, 45 40, 60 50 C 75 60, 80 40, 100 12" />
+    <path d="M 20 12 C 40 40, 45 60, 60 50 C 75 40, 80 60, 100 88" />
+  </svg>
+
+  <!-- modular fundamental domain -->
+  <svg
+    class={`${doodleClass} right-10`}
+    style="top: 68vh;"
+    width="64"
+    height="72"
+    viewBox="0 0 100 110"
+    fill="none"
+    stroke="currentColor"
+    stroke-width="1.5"
+  >
+    <line x1="10" y1="10" x2="10" y2="100" opacity="0.35" />
+    <line x1="90" y1="10" x2="90" y2="100" opacity="0.35" />
+    <path d="M 10 100 A 40 40 0 0 1 90 100" />
+    <line x1="50" y1="10" x2="50" y2="100" opacity="0.35" stroke-dasharray="2 3" />
+  </svg>
+</div>
