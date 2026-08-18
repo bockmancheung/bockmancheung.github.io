@@ -3,6 +3,7 @@ import { getCollection } from "astro:content";
 import Layout from "@/layouts/Layout.astro";
 import Header from "@/components/Header.astro";
 import IconRss from "@/assets/icons/IconRss.svg";
+import Quiddle from "@/components/Quiddle.astro";
 import getSortedPosts from "@/utils/getSortedPosts";
 
 const posts = await getCollection("blog");
@@ -61,5 +62,7 @@ const sortedPosts = getSortedPosts(posts);
         </ul>
       </div>
     </section>
+
+    <Quiddle />
   </main>
 </Layout>

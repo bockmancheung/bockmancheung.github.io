@@ -2,6 +2,7 @@
 import Layout from "@/layouts/Layout.astro";
 import Header from "@/components/Header.astro";
 import IconRss from "@/assets/icons/IconRss.svg";
+import Quiddle from "@/components/Quiddle.astro";
 import { useTranslations } from "@/i18n/utils";
 
 const t = useTranslations("fr");
@@ -80,5 +81,7 @@ const t = useTranslations("fr");
         </ul>
       </div>
     </section>
+
+    <Quiddle />
   </main>
 </Layout>
