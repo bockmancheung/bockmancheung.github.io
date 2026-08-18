@@ -1,0 +1,71 @@
+---
+import type { Book } from "@/data/books";
+
+type Props = {
+  heading: string;
+  books: Book[];
+  emptyMessage: string;
+  showFinishedColumn?: boolean;
+};
+
+const { heading, books, emptyMessage, showFinishedColumn = false } = Astro.props;
+---
+
+<section class="flex min-h-0 flex-1 flex-col">
+  <div class="flex items-baseline justify-between border-b border-border pb-3">
+    <h2 class="text-xl font-semibold sm:text-2xl">{heading}</h2>
+    <span class="text-sm opacity-70">{books.length}</span>
+  </div>
+
+  <div class="max-h-[60vh] overflow-y-auto sm:max-h-[65vh]">
+    {
+      books.length === 0 ? (
+        <p class="py-4 italic opacity-70">{emptyMessage}</p>
+      ) : (
+        <table class="w-full border-collapse text-left">
+          <thead>
+            <tr>
+              <th class="bg-background sticky top-0 py-2 pr-2 font-medium opacity-70">
+                Book
+              </th>
+              <th class="bg-background sticky top-0 py-2 pr-2 font-medium opacity-70">
+                Author
+              </th>
+              {showFinishedColumn && (
+                <th class="bg-background sticky top-0 py-2 font-medium opacity-70">
+                  Finished
+                </th>
+              )}
+            </tr>
+          </thead>
+          <tbody>
+            {books.map(book => (
+              <tr class="border-t border-border">
+                <td class="py-2 pr-2 align-top font-medium">
+                  {book.goodreadsUrl ? (
+                    <a
+                      href={book.goodreadsUrl}
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      class="decoration-dashed underline-offset-4 hover:text-accent hover:underline"
+                    >
+                      {book.title}
+                    </a>
+                  ) : (
+                    book.title
+                  )}
+                </td>
+                <td class="py-2 pr-2 align-top opacity-80">{book.author}</td>
+                {showFinishedColumn && (
+                  <td class="py-2 align-top whitespace-nowrap opacity-60">
+                    {book.dateFinished}
+                  </td>
+                )}
+              </tr>
+            ))}
+          </tbody>
+        </table>
+      )
+    }
+  </div>
+</section>
