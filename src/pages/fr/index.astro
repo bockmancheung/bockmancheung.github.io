@@ -1,0 +1,84 @@
+---
+import Layout from "@/layouts/Layout.astro";
+import Header from "@/components/Header.astro";
+import IconRss from "@/assets/icons/IconRss.svg";
+import { useTranslations } from "@/i18n/utils";
+
+const t = useTranslations("fr");
+---
+
+<Layout description="Mathématiques et vie">
+  <Header />
+  <main id="main-content" data-layout="index" class="app-layout">
+    <section id="hero" class:list={["pt-8 pb-6", "border-b border-border"]}>
+      <h1 class="my-4 inline-block text-4xl font-bold sm:my-8 sm:text-5xl">
+        Bockman Cheung
+      </h1>
+      <a
+        target="_blank"
+        href="/rss.xml"
+        class="inline-block"
+        aria-label={t("home.rss.aria")}
+        title={t("home.rss.title")}
+      >
+        <IconRss
+          width={20}
+          height={20}
+          class="scale-125 stroke-accent stroke-3 rtl:-rotate-90"
+        />
+        <span class="sr-only">{t("home.rss.title")}</span>
+      </a>
+
+      <p class="mb-6">{t("home.subtitle")}</p>
+
+      <div
+        class="mb-6 rounded border border-border bg-muted/50 p-4 text-sm italic"
+      >
+        Remarque : cette version française a été générée par Claude (IA) et
+        n'a pas encore été relue par l'auteur. Des erreurs de traduction sont
+        possibles — la <a
+          href="/"
+          class="not-italic underline decoration-dashed underline-offset-4 hover:text-accent"
+          >version anglaise</a
+        > reste la référence.
+      </div>
+
+      <p class="mb-6">
+        Je suis actuellement en troisième année de premier cycle
+        (undergraduate) à l'UCLA, au département de mathématiques, avec un
+        large intérêt pour la géométrie algébrique et ses applications, par
+        exemple les algèbres amassées et la théorie des représentations. Je
+        m'intéresse aussi vivement à faire progresser les interactions
+        homme-machine afin de repousser les frontières de la recherche
+        mathématique.
+      </p>
+
+      <p class="mb-6">Mon adresse e-mail est bm[nom de famille]@ucla.edu.</p>
+
+      <p class="mb-6">
+        <img
+          src="https://hits.sh/bockmancheung.github.io.svg?style=flat-square&label=visiteurs&color=006cac"
+          alt={t("home.visitors.alt")}
+          height="20"
+        />
+      </p>
+
+      <div class="mt-8">
+        <h2 class="text-lg font-semibold mb-3">Voyages à venir (2026) :</h2>
+        <ul class="list-disc list-inside space-y-1">
+          <li>
+            <strong>16 au 20 juin :</strong> 43rd Annual Workshop in Geometric
+            Topology, Salt Lake City, UT
+          </li>
+          <li>
+            <strong>16 août au 10 septembre :</strong> Montréal, QB, Canada
+          </li>
+          <li><strong>10 au 17 septembre :</strong> Boston, MA</li>
+          <li>
+            <strong>17 au 23 septembre :</strong> Toronto, OT, Canada
+          </li>
+        </ul>
+      </div>
+    </section>
+  </main>
+</Layout>

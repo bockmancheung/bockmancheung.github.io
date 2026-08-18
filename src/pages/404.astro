@@ -3,7 +3,17 @@ import Layout from "@/layouts/Layout.astro";
 import Header from "@/components/Header.astro";
 import Footer from "@/components/Footer.astro";
 import LinkButton from "@/components/LinkButton.astro";
+import { getLangFromUrl, useTranslations } from "@/i18n/utils";
 import { SITE } from "@/config";
+
+// Note: on the static-hosted build, an unmatched path always falls back to
+// this single prebuilt file (GitHub Pages has no way to route /fr/* 404s to
+// a separate French file), so it renders in English regardless of the
+// visited URL. Detecting the locale here still makes this correct if the
+// site is ever served dynamically (e.g. SSR).
+const lang = getLangFromUrl(Astro.url);
+const t = useTranslations(lang);
+const homeHref = lang === "fr" ? "/fr" : "/";
 ---
 
 <Layout title={`404 Not Found | ${SITE.title}`}>
@@ -16,12 +26,12 @@ import { SITE } from "@/config";
     <div class="mb-14 flex flex-col items-center justify-center">
       <h1 class="text-9xl font-bold text-accent">404</h1>
       <span aria-hidden="true">¯\_(ツ)_/¯</span>
-      <p class="mt-4 text-2xl sm:text-3xl">Page Not Found</p>
+      <p class="mt-4 text-2xl sm:text-3xl">{t("404.title")}</p>
       <LinkButton
-        href="/"
+        href={homeHref}
         class="my-6 text-lg underline decoration-dashed underline-offset-8"
       >
-        Go back home
+        {t("404.goHome")}
       </LinkButton>
     </div>
   </main>

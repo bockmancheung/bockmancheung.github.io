@@ -1,15 +1,26 @@
 ---
-// Remove current url path and remove trailing slash if exists
-const currentUrlPath = Astro.url.pathname.replace(/\/+$/, "");
+import { getLangFromUrl, useTranslations, stripLocale } from "@/i18n/utils";
+
+const lang = getLangFromUrl(Astro.url);
+const t = useTranslations(lang);
+const homeHref = lang === "fr" ? "/fr" : "/";
+
+// Path with any locale prefix and trailing slash removed,
+// eg: /fr/tags/ => /tags
+const currentUrlPath = stripLocale(Astro.url.pathname);
 
 // Get url array from path
 // eg: /tags/tailwindcss => ['tags', 'tailwindcss']
-const breadcrumbList = currentUrlPath.split("/").slice(1);
+const breadcrumbList = currentUrlPath.split("/").filter(Boolean);
 
 // if breadcrumb is Home > Writings > 1 <etc>
 // replace Writings > 1 with Writings (page number)
 if (breadcrumbList[0] === "posts") {
-  breadcrumbList.splice(0, 2, `Writings (page ${breadcrumbList[1] || 1})`);
+  breadcrumbList.splice(
+    0,
+    2,
+    `${t("breadcrumb.writings")} ${breadcrumbList[1] && Number(breadcrumbList[1]) !== 1 ? `(page ${breadcrumbList[1]})` : ""}`.trim()
+  );
 }
 
 // if breadcrumb is Home > Tags > [tag] > [page] <etc>
@@ -21,6 +32,25 @@ if (breadcrumbList[0] === "tags" && !isNaN(Number(breadcrumbList[2]))) {
     `${breadcrumbList[1]} ${Number(breadcrumbList[2]) === 1 ? "" : "(page " + breadcrumbList[2] + ")"}`
   );
 }
+
+// Known top-level route segments get a translated label; anything else
+// (post slugs, tag slugs, page numbers already folded in above) is shown as-is.
+const segmentLabel = (segment: string): string => {
+  switch (segment) {
+    case "tags":
+      return t("breadcrumb.tags");
+    case "archives":
+      return t("breadcrumb.archives");
+    case "books":
+      return t("breadcrumb.books");
+    case "about":
+      return t("breadcrumb.about");
+    case "search":
+      return t("breadcrumb.search");
+    default:
+      return decodeURIComponent(segment);
+  }
+};
 ---
 
 <nav class="app-layout mt-8 mb-1" aria-label="breadcrumb">
@@ -28,29 +58,24 @@ if (breadcrumbList[0] === "tags" && !isNaN(Number(breadcrumbList[2]))) {
     class="font-light [&>li]:inline [&>li:not(:last-child)>a]:hover:opacity-100"
   >
     <li>
-      <a href="/" class="opacity-80">Home</a>
+      <a href={homeHref} class="opacity-80">
+        {t("breadcrumb.home")}
+      </a>
       <span aria-hidden="true" class="opacity-80">&raquo;</span>
     </li>
     {
       breadcrumbList.map((breadcrumb, index) =>
         index + 1 === breadcrumbList.length ? (
           <li>
-            <span
-              class:list={["capitalize opacity-75", { lowercase: index > 0 }]}
-              aria-current="page"
-            >
-              {/* make the last part lowercase in Home > Tags > some-tag */}
-              {breadcrumb === "posts"
-                ? "Writings"
-                : decodeURIComponent(breadcrumb)}
+            <span class="opacity-75" aria-current="page">
+              {segmentLabel(breadcrumb)}
             </span>
           </li>
         ) : (
           <li>
-            <a href={`/${breadcrumb}/`} class="capitalize opacity-70">
-              {breadcrumb === "posts" ? "Writings" : breadcrumb}
+            <a href={`/${breadcrumb}/`} class="opacity-70">
+              {segmentLabel(breadcrumb)}
             </a>
-            <span aria-hidden="true">&raquo;</span>
           </li>
         )
       )
